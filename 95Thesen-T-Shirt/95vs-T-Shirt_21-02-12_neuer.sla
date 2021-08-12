@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.5">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="2400" PAGEHEIGHT="3200" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="31.1811023622047" UNITS="0" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="de" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.001" MAJGRID="100.001" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.001" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.001" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Graubraun" SPACE="CMYK" C="63.5263599603265" M="75.3963530937667" Y="63.8208590829328" K="86.5537499046311"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN>
+            <EXCEPTION WORD="metaphor" HYPHENATED="me-ta-phor"/>
+            <EXCEPTION WORD="Coronavirus" HYPHENATED="Co-ro-na-vi-rus"/>
+        </HYPHEN>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Thesen_Normal" ALIGN="3" LINESP="17.1" INDENT="27" RMARGIN="25" FIRST="-27" NACH="0.3" FONT="EB Garamond 08 Regular" FONTSIZE="18.4" FONTFEATURES="-clig" FCOLOR="Graubraun" LANGUAGE="de">
+            <Tabs Type="0" Pos="27" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Thesen_Überschriften" PARENT="Thesen_Normal" ALIGN="0" LINESP="21" VOR="14" NACH="4" BCOLOR="None" FONTSIZE="23" FCOLOR="Black"/>
+        <STYLE NAME="Thesen_Überschrift2" PARENT="Thesen_Überschriften" ALIGN="0" LINESP="18" INDENT="27" FIRST="-27" VOR="7" NACH="3" FONT="EB Garamond 12 Italic" FONTSIZE="20" FONTFEATURES="" FCOLOR="Black">
+            <Tabs Type="0" Pos="25" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Thesen_Titel" PARENT="Thesen_Normal" ALIGN="1" LINESP="106" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" FONT="EB Garamond 12 Regular" FONTSIZE="110" FONTFEATURES="-clig">
+            <Tabs Type="0" Pos="9.92125984251969" Fill=""/>
+        </STYLE>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="de"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-1549556829" PDLanguage="-1549556829" markLength="-5.27735271320721e-137" markOffset="-5.27735271320721e-137" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="Arial Regular"/>
+            <Subset Name="EB Garamond 08 Regular"/>
+            <Subset Name="EB Garamond 12 Italic"/>
+            <Subset Name="EB Garamond 12 Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="2400" PAGEHEIGHT="3200" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="20.001" PAGEWIDTH="2400" PAGEHEIGHT="3200" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="2135 " HorizontalGuides="1600 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="205" YPOS="22.001" OwnPage="0" ItemID="1945677292" PTYPE="2" WIDTH="2425" HEIGHT="3240" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="3.39622641509434" LOCALSCY="3.39622641509434" LOCALX="-0.000294444444437482" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../Hintergrund Auswahl/Lid5bbo4T.png" IRENDER="0" EMBEDDED="0" path="M0 0 L2425 0 L2425 3240 L0 3240 L0 0 Z" copath="M0 0 L2425 0 L2425 3240 L0 3240 L0 0 Z" gXpos="205" gYpos="22.001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="376.001" YPOS="178.666666666667" OwnPage="0" ItemID="1907080684" PTYPE="4" WIDTH="1884.999" HEIGHT="2901.33433333333" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="4" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L1885 0 L1885 2901.33 L0 2901.33 L0 0 Z" copath="M0 0 L1885 0 L1885 2901.33 L0 2901.33 L0 0 Z" gXpos="32.0628829282252" gYpos="599.391104587434" gWidth="2652.84373660559" gHeight="3170.02999844672" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="A."/>
+                <tab/>
+                <ITEXT CH="Kon­se­quen­zen für die Wis­sen­schaft und den Wis­sen­schafts­stand­ort Deutsch­land"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <tab/>
+                <ITEXT CH="Ver­schwen­dung von Steu­er­gel­dern und Hu­man Re­sources"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="1."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ver­schwen­det Un­men­gen von Steu­er­mit­teln. Es zwingt das Wis­sen­schafts­sys­tem da­zu, sei­ne wert­volls­ten In­ves­ti­ti­o­nen – her­vor­ra­gend aus­ge­bil­de­te Ex­­per­­t_innen – spätestens nach zwölf Jahren aufgrund von sach­­fremden, zufällig ausgewählten Umständen zu entlassen und so indirekt (wegen Mangels an unbefristeten Stellen) mit einem Einstellungsverbot zu belegen. Das Wiss­­ZeitVG führt so zu einer systemischen Verbrennung von Kom­­petenz durch stän­­digen Personalaustausch und zu einem Ver­­lust an Wett­­be­­werbs­­fähigkeit des deutschen Wis­­sen­­schaftssystems. In der freien Wirtschaft wäre dieses Vor­­gehen aufgrund seiner frap­­pierenden Ineffizienz un­­denk­­bar: Kein Un­­ter­­nehmen würde nach 12 Jahren seine Mit­­ar­­bei­­ter_innen ent­­lassen, obwohl sie Leistung bringen und das Unternehmen immens in sie und ihre Qualifikation investiert hat."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="2."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG verhindert jegliches effektives Ma­­nage­­ment, denn es steht auf verschiedenen Ebenen der dafür er­­for­­­­der­­lichen Planungssicherheit entgegen. Wis­­sen­­schaft^^­­le­­r_innen fehlt diese Planungssicherheit im Hinblick auf ihre Karriere und ihr Leben. Für Studierende wirkt sich die feh­­lende Planungs­­sicherheit auf die Lehr- und Prü­­fungs­­qua­­lität aus. In der Forschung verhindert mangelnde Pla­­nungs­­sicherheit nach­­haltige profilbildende Wissenschaft."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="3."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG führt oft bereits vor dem Ausschöpfen der individuellen Höchstbefristungsdauer zu einem Brain Drain in der Wissenschaft, weil es die Planbarkeit von Le­­bens­­läufen verhindert: Qualifizierte Wis­­sen­­schaft­­le­­r_innen wech­­seln ins Ausland, weil in Deutschland lange Zeit nicht absehbar ist, ob sie überhaupt eine langfristige Perspektive im Wis­­sen­­schafts­­betrieb haben werden. Aus­­län­­dischen Kol­­leg_innen kann man das Gesetz ohne­­hin kaum erklären – sie sind darüber zu Recht fassungslos."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="4."/>
+                <tab/>
+                <ITEXT CH="Dank WissZeitVG sind die Befristungsquoten in der Wissenschaft sehr viel höher als in anderen Bereichen, in denen hochqualifiziertes Personal arbeitet und wo nur das Teilzeit- und Befristungsgesetz anwendbar ist, das sehr viel strengere Maßstäbe setzt. Während 2019 knapp 12"/>
+                <nbspace/>
+                <ITEXT CH="% der in Deutschland abhängig Beschäftigten befristet waren, geht die Wissenschaft einen Sonderweg mit derzeit 78"/>
+                <nbspace/>
+                <ITEXT CH="% befristetem Personal."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="5."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG bewirkt das Gegenteil des Intendierten, denn es verhindert unbefristete Anstellungen, statt Ent­­frist­­un­­gen zu fördern. Es sorgt dafür, dass sich Ver­­wal­­tun­­gen keine Gedanken über den Aufbau nachhaltiger Stellen machen müssen. Inzwischen steht das Gesetz so sehr für die Sicherung der Befristungspraxis in der Wissenschaft, dass Kritik daran regelmäßig Gegenargumente hervorruft, die mit fragwürdigen Prämissen zu begründen suchen, warum man in der Wissenschaft weiterhin Befristung brauche (vgl. Bay­­reuth­­er Erklärung der Uni­­versi­­täts­­kanz­­ler_innen)."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="6."/>
+                <tab/>
+                <ITEXT CH="Die potentielle Verlängerung der WissZeitVG-Fristen auf­­grund von Corona beweist, dass alle längst wissen, dass das Wiss­­Zeit­­VG Wissenschaftler_innen schadet und nicht hilft. Erst die Existenz des Gesetzes macht entsprechende Här­­te­­fallregelungen überhaupt nötig. Da die Verlängerung eine bloße Kann-Verlängerung ist, können Wis­­sen­­schaft­­le­­r_in­­nen zudem nicht sicher damit rechnen, dass ihre Uni­­versitäten ihre Arbeitsverhältnisse auch entsprechend ver­­längern."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Konsequenzen für wissenschaftliche Qualität / Mainstreaming von Wissenschaft"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="7."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG schadet allem, was wissenschaftliche Ex­­zellenz in einer Forschungsgemeinschaft ausmacht: der Vielfalt der Forschenden und Perspektiven, der Sorgfalt in der Forschung, der Hochschullehre sowie einer Kultur der Kol­­la­­boration, Innovation und Nachhaltigkeit"/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH=".8."/>
+                <tab/>
+                <ITEXT CH="Gute Wissenschaft braucht Zeit und Freiraum, Gedanken zu verfolgen und auch in Sackgassen rennen zu dürfen, um danach neu zu beginnen. Kurz befristete Kettenverträge und das drohende Ende der Karriere nach Erreichen der Höchst­­befristungsdauer machen dies für das Gros deutscher Wis­­sen­­schaft­­ler_innen unmöglich. Wer sich mit schwie­­ri­­gen Fra­­ge­­stellungen beschäftigt, die für die Gesell­­schaft hochrelevant sein können, wer innovativ ist, neue Wege sucht und auch Umwege geht und Verschiedenes aus­­probiert, der benötigt Zeit und bekommt so mitunter Pro­­bleme mit dem Wiss­­ZeitVG."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="9."/>
+                <tab/>
+                <ITEXT CH="Der Zeit- und Karrieredruck, den das WissZeitVG aufbaut, sorgt in der Forschung nicht für mehr gute Ideen, Risi­­ko­­willen und Qualitätsoutput, sondern für Verflachung, Markt- und Diskurskonformität und Orientierung an einer frag­­würdigen Auf­­merk­­sam­­keits­­öko­­no­­mie. Das WissZeit­­VG führt dazu, dass viele auf Main­­stream­­the­­men setzen, um ihre Chan­­cen auf Weiterbeschäftigung zu erhöhen, statt in­­no­­vativen Forschungsideen nachzugehen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="10."/>
+                <tab/>
+                <ITEXT CH="Wer wegen des WissZeitVG zu schnell forschen muss, muss meist zu schlecht forschen. Das Damoklesschwert von Kurz­­zeit­­verträgen und Höchstbefristungsdauer in der Wis­­sen­­schaft gefährdet ergebnisneutrale, wahrheitsorientierte For­­schung."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="11."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG kehrt die Logik von Zeitlichkeit und Forschung auf fatale Weise um: Ein Forschungsprojekt ist nicht dann beendet, wenn es fertig ist, sondern wenn Pro­­jekt­­finanzierung oder Arbeitsvertrag auslaufen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="12."/>
+                <tab/>
+                <ITEXT CH="Befristung wirkt sich negativ auf Projekteergebnisse aus, da während der Projektarbeit schon das nächste Projekt ent­­stehen und beantragt werden muss."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="13."/>
+                <tab/>
+                <ITEXT CH="Dank WissZeitVG müssen viele Wissenschaftler_innen in der Zeit, die sie sonst für Forschung, Lehre oder Wis­­sen­­schafts­­kom­­munikation zur Verfügung hätten, eine Bewerbung nach der anderen schreiben. Denn ihre Ar­­beits­­ver­­träge sind be­­fristet und deren Laufzeiten kurz, mitunter weniger als ein halbes Jahr lang."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="14."/>
+                <tab/>
+                <ITEXT CH="Die Projektkultur führt erfahrungsgemäß häufig dazu, dass Anträge für bereits mehr oder weniger abgeschlossene Pro­­jekte gestellt werden müssen, da die Temporalitäten von Pro­­jektkultur und guter Wissenschaft nicht zusammen­­pas­­sen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="15."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG zementiert unsinnige und ineffektive Struk­­turen durch ständige Aufgaben- und Personalwechsel. Kaum ein Projekt wird von Anfang bis Ende durch ein Team fertiggestellt, da alle auf dem Sprung sind."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="16."/>
+                <tab/>
+                <ITEXT CH="Förderlinien von BMBF und Stifterverband laufen mit­­tel­­fris­­tig ins Leere, da das WissZeitVG eine Verstetigung von er­­ar­­beitetem Wissen, Kooperationen und institutionellen Ver­­net­­zungsstrukturen verhindert."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="17."/>
+                <tab/>
+                <ITEXT CH="Das Fehlen einer langfristigen Perspektive und die ständigen Wechsel wirken sich negativ auf die Iden­­ti­­fi­­kation der Einzelnen mit der jeweiligen Universität und somit auf die universitäre Profilbildung aus. Sie führen zugleich zur An­­passung an Erwartungen und verstärken die Abhängigkeit von Vorgesetzten."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="18."/>
+                <tab/>
+                <ITEXT CH="Durch das WissZeitVG dominiert in der Wissenschaft Konkurrenzdenken und Einzelkämpfertum. Langfristige Kooperationen können nur begrenzt aufgebaut werden. Vorbildliche Ansätze werden nach dem Vertragsende ihrer Initiator_innen nicht weiterverfolgt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="19."/>
+                <tab/>
+                <ITEXT CH="Es sollte nicht unerwähnt bleiben, dass viele junge Men­­schen das WissZeitVG aushalten, weil sie passioniert sind, ihren Job lieben, lehren und forschen möchten. Dies würde zu einer hohen Qualität der Forschung und Lehre führen, gäbe es nicht die Bremse der Existenzängste, Befristungen etc."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="20."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG bremst Forschung aus, weil sie nicht mittel- und langfristig entwickelt werden kann. Das geht nicht nur zulasten der Forschenden, sondern kostet auch mehr Geld für das System und bringt weniger Erträge."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="21."/>
+                <tab/>
+                <ITEXT CH="Mit befristeten Verträgen lässt sich keine langfristige Forschungsdatenmanagement-Infrastruktur aufbauen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="22."/>
+                <tab/>
+                <ITEXT CH="Unbefristet forschen heißt auch, dass man Projekte oder For­­schungszentren (mit)aufbaut, Studiengänge auf die Bei­­ne bringt, Doktorand_innen und generell lange Pro­­jekt­­vor­­­­haben betreuen kann. Wer will/kann das alles machen, wenn man weiß, man ist bald woanders?"/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="23."/>
+                <tab/>
+                <ITEXT CH="Ausgerechnet in der Wissenschaft wird die These, die dem WissZeitVG zugrunde liegt, nicht hinterfragt, dass „neue“ und „junge“ Köpfe automatisch mehr Innovationen ins System bringen. Diese Aussage ist in ihrer Pauschalität angreifbar und lässt zudem die Wirkung der sys­­tem­­imma­­nenten Pro­­zes­­se außer Acht, die eher Anpassung als Inno­­vation be­­lohnen."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Das unsinnige Prinzip „up or out“"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="24."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG befeuert das Alles-oder-Nichts-Prinzip des deut­­schen Wissenschaftsbetriebs: Wer keine Professur erhält, fällt aufgrund der Höchstbefristungsdauer früher oder später aus dem System heraus. Viele Wis­­sen­­schaft­­le­­r_in­­nen streben aber nicht unbedingt eine Professur an."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="25."/>
+                <tab/>
+                <ITEXT CH="Viele der durch das WissZeitVG aus dem System aus­­schei­­denden Wissenschaftler_innen sind hochqualifiziert. Der qua­­litative Abstand der wenigen, die eine Professur be­­kommen, zu den vielen, die ohne Professur bleiben, ist in Bereichen mit starker Konkurrenz allenfalls minimal."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="26."/>
+                <tab/>
+                <ITEXT CH="Nicht jede_r wird Professor_in werden. Das ist auch nicht wei­­ter tragisch, da der Wissenschaftsbetrieb nicht allein Pro­­fes­­sor_innen benötigt, um zu funktionieren. Nicht-Pro­­fessor_innen bedürfen aber ebenfalls eines sicheren Umfeldes. Wer­­den basale Sicherheitsbedürfnisse dieser Personen nicht erfüllt, beschädigt dies eine Generation von Wis­­sen­­schaft­­ler_innen."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Attraktivitätsverlust der wissenschaftlichen Karriere."/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="27."/>
+                <tab/>
+                <ITEXT CH="Wissenschaft als Beruf hat aufgrund des WissZeitVG extrem an Attraktivität eingebüßt. Nach hervorragenden Exa­­mens­­prü­­fungen winken viele müde ab auf die Frage, ob sie eine Promotion anstreben. In einigen Fachbereichen herrscht be­­reits Fachkräftemangel und die Universitäten sind in Bezug auf die dort angebotenen Arbeitsverhältnisse im Vergleich mit der Privatwirtschaft nicht mehr kon­­kur­­renzfähig. Wer be­­rufliche Sicherheit/Perspektive braucht (sub­­jektiv oder exis­­tenziell), verlässt früher oder später die Wissenschaft – egal, wie gut er/sie ist."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="28."/>
+                <tab/>
+                <ITEXT CH="Man kann niemandem eine wissenschaftliche Laufbahn emp­­feh­­len. Ungewissheit, Unvereinbarkeit und kom­­pe­­te­­ti­­ver In­­di­­vidualismus haben Dauercharakter dank Wiss­­ZeitVG im akademischen Betrieb."/>
+                <tab/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Das Gesetz läuft dem Prinzip der Bestenauslese zuwider"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="29."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG sichert einen längst überholten Status quo. Es nimmt dem sogenannten ‚Nachwuchs‘ Chancen und den Einrichtungen und Vorgesetzten die Möglichkeit, die Bes­­ten zu beschäftigen."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Image der Wissenschaft"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="30."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG spiegelt letztlich die Geringschätzung von Wissenschaft in Politik und Gesellschaft wider. Diese Wis­­sen­­schaftsfeindlichkeit führt nicht zuletzt auch in der gegenwärtigen Corona-Krise zur teilweisen Verachtung der Wissenschaftler_innen. Im besten Fall wird man dafür aus­­gelacht als hochqualifizierter Mensch unter solchen Be­­din­­gun­­gen zu arbeiten. Das WissZeitVG entwertet so letztlich eine ganze Branche als Arbeitgeber und damit auch die Arbeit selbst."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="31."/>
+                <tab/>
+                <ITEXT CH="Aufgrund des WissZeitVG verspielt die Wissenschaft Le­­gi­­ti­­ma­­tion gerade in wissenschaftsfernen Bereichen. Wer über das WissZeitVG diskutiert, muss über den gesell­­schaftlichen Wert von Wissenschaft und die Bereitschaft zu ihrer an­­ge­­messenen Finanzierung diskutieren."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Förderung von Misstrauen und Vetternwirtschaft, Erzeugung von künstlicher Konkurrenz"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="32."/>
+                <tab/>
+                <ITEXT CH="Der enorme Konkurrenzdruck im befristeten Mittelbau zer­­stört Kollegialität – sowohl Freundschaft, die für die Psy­­che wich­­tig ist, als auch Teamarbeit, die das ganze Institut vor­­anbringen würde. Viele der nettesten Kol­­leg_innen sind auch die, die um denselben Job kämpfen. Wissen teilen mit Kol­­leg_innen? Lieber nicht dank künstlicher Konkurrenz durch das WissZeitVG."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="33."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG führt zu einem dem Wissenschaftsdiskurs und letztlich dem Gemeinwohl abträglichen Egoismus, weil nahe­­zu jede_r irgendwann seine Ideale verliert und not­­ge­­drun­­gen nur an sich selbst denkt. Die Produktivität von For­­schung als Gemeinschaftsprojekt bleibt dadurch auf der Strecke."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="34."/>
+                <tab/>
+                <ITEXT CH="In der Wissenschaft ist eine Misstrauenskultur inzwischen tief verankert. Der Versuch, alles zu kontrollieren, führt indes nicht zum Abbau von Vetternwirtschaft. Denn je unsicherer die Karrierewege, desto mehr suchen die Be­­treffen­­den Schlupflöcher und brauchen Beziehungen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="35."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG beruht im Kern auf der Unterstellung, dass junge Wissenschaftler_innen nur durch Befristung zu Mo­­tivation und Mobilität zu bewegen seien. Es ist ein Aus­­druck des Misstrauens gegenüber dem Arbeitswillen und dem For­­schungsinteresse unbefristeter Wis­­sen­­schaft­­le­­r_in­­­­nen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="B."/>
+                <tab/>
+                <ITEXT CH="Fehler des WissZeitVG"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <tab/>
+                <ITEXT CH="Fehler des Gesetzes in Ziel- und Umsetzung"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="36."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG unterscheidet bei der Berechnung der Be­­fris­­t­­ungsda­­uer nicht zwischen Vollzeit- und Teilzeitstellen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="37."/>
+                <tab/>
+                <ITEXT CH="Die üblichen Teilzeitstellen nach WissZeitVG legen nahe, dass Qualifikation im Rahmen der übrigen Zeiten (= Freizeit) unterzukommen hat und nicht eigentlicher Sach­­grund der Befristung und wesentlicher Teil der Be­­schäf­­tigung ist."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="38."/>
+                <tab/>
+                <ITEXT CH="Es ist nicht sichergestellt, dass das Stellenprofil so ausgelegt ist, dass die Arbeit an der eigenen Weiterqualifikation tat­­sächlich während der Arbeitszeit möglich ist und einen pro­­zentualen Umfang hat, der eine Qualifikation im ge­­ge­­benen Zeitraum möglich macht."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="39."/>
+                <tab/>
+                <ITEXT CH="Es gibt keine realistisch nutzbaren rechtlichen Me­­chan­­is­­men, die sichern, dass die angesetzte Qualifikationszeit auch Zeit zur Qualifikation gibt und nicht weitere Dienst­­pflichten prio­­risiert werden müssen. Die Personalunion Betreuer_in und Vorgesetzte_r verschärft das."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="40."/>
+                <tab/>
+                <ITEXT CH="Der Qualifikationsbegriff des WissZeitVG ist – gerade in der Postdoc-Phase – sehr dehnbar. Viele der ver­­mein­­tlichen Qua­­­­li­­fikationsstellen sind tatsächlich Stel­­len zur Sicherung des Lehrangebots, einer Daueraufgabe der Hochschulen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="41."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG war wesentlicher Baustein beim Out­­sourcing von TVL-Fähigkeiten in TVstud – weil dadurch ein für Ar­­beit­­geber_innen weniger restriktiver Be­­fris­­tungs­­rahmen genutzt werden konnte, als für nicht­­wis­­sen­­schaftliche Tä­­tig­­keiten vorgesehen ist. Auch werden immer wie­­der nicht­­wissenschaftliche Tätigkeiten als wis­­sen­­schaft­­liche de­­fi­­niert, um das WissZeitVG zur Anwendung bringen zu können."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="42."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG lässt unterschiedliche Fachkulturen, wie Pu­­bli­­kationsprozesse und -zeiten, in den unterschiedlichen Disziplinen unberücksichtigt. Die Dauer bis zur Ver­­öffent­­lichung einer Studie kann je nach Fach zwischen zwei bis drei Monaten oder bis zu fünf Jahren variieren."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="43."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG ist kompliziert. Viele Professor_innen, die die Einstellungspolitik betreiben, kennen sich angesichts der komplexen Rechtslage zu wenig aus. In der Folge werden erfolgreiche Bewerber_innen wegen Fehlern von Kom­­missionen nicht eingestellt oder weil Mitarbeitende als Risiko gelten, da sie sich auf unbefristete Stellen einklagen könnten. Dies gilt selbst dann, wenn die Betreffenden die Gelder für ihre Stelle selbst eingeworben haben."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="44."/>
+                <tab/>
+                <ITEXT CH="Es herrschen gravierende Unterschiede zwischen der Aus­­legung des Gesetzes an verschiedenen Universitäten – etwa hinsichtlich der Frage, welche Zeiten angerechnet werden und welche nicht. Dadurch wird das Gegenteil von Rechts­­sicherheit erreicht; erzeugt werden stattdessen (ungewollte) standortabhängige Vor- und Nachteile für die Beschäftigten."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="45."/>
+                <tab/>
+                <ITEXT CH="Auch dass Zeiten der Drittmittelbefristung ohne Qua­­li­­fi­­ka­­tions­­anteil, Stipendienzeiten und Pro­­mo­­tions­­stu­­dien­­zeiten neben Zeiten mit Anstellung ohne Unterschied regelmäßig in die Höchstbefristungsdauer eingerechnet werden, ist ein Skan­­dal. Das WissZeitVG ist ein Gesetz, das Rosinenpicken erlaubt in einem asymmetrischen Macht­­gefälle zu Un­­guns­­ten der Wissenschaftler_innen."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Fehlanreize bzw. mangelnde Anreize"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="46."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG setzt den irrsinnigen Anreiz, den Ab­­schluss der Qualifikation strategisch hinauszuzögern, um die 12 Jahre auszureizen, auch wenn man früher fertig werden könnte, weil mit dem Abschluss der Be­­fris­­tungs­­grund entfällt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="47."/>
+                <tab/>
+                <ITEXT CH="Das Bangen um Verlängerung fördert Selbstdarstellung und Networking, nicht qualitativ hochwertige Forschung und Lehre. Wissenschaftskommunikation zu lieben und sie ger­­ne zu machen hat im WissZeitVG keinen Raum. Wis­­sen­­schaft­­le­­r_innen sind gezwungen, stattdessen die Dinge zu prio­­risieren, die Qualifikationsarbeiten voranbringen oder den nächs­­ten Vertrag wahrscheinlicher machen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="48."/>
+                <tab/>
+                <ITEXT CH="Paradox: Es gibt keinerlei Prüfung der wissenschaftlichen Leistungen bei Verlängerungen (oder Nicht-Ver­­län­­ge­­run­­gen), denn nach WissZeitVG ist gute Arbeit gar kein Kri­­te­­rium. Es zählt nur, ob man rechtskonform verlängert werden kann oder nicht."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="49."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG ist Teil eines Systems, das Engagement in der Lehre und gründliche wissenschaftliche Arbeit nicht fördert, weil sich beides nachteilig auf die Karriere aus­­wirken kann, für die vorrangig (viel) Forschungsoutput zählt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="50."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG bedeutet, sich schon vor dem (po­­ten­­tiellen) Be­­ginn der eigenen wissenschaftlichen Karriere Gedanken um das Danach zu machen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="51."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG ist eine zentrale Ursache dafür, dass sich die Frage des Verbleibs in der Wissenschaft zumeist erst sehr spät (mit Mitte 40) entscheidet, weil es die Selektion hinaus­­zö­­gert."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="52."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG betrachtet die PostDoc-Zeit als Phase und nicht als Beruf, dabei beweist schon die Promotion die Befähigung zum selbstständigen Arbeiten."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="C."/>
+                <tab/>
+                <ITEXT CH="Konsequenzen für Studierende"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <tab/>
+                <ITEXT CH="Diskontinuität bei Ansprechpartner_innen"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="53."/>
+                <tab/>
+                <ITEXT CH="Studierende haben durch das WissZeitVG kaum konstante Ansprechpartner_innen. Oftmals können Ab­­schluss­­ar­­bei­­ten nicht betreut werden, weil Verträge auslaufen. Dank Wiss­­Zeit­­VG ist keine kontinuierliche Betreuung von Stu­­dierenden möglich. Individuelle Beratung läuft so ins Leere. Wer be­­son­­ders benachteiligt wird, sind Studierende ohne akademisches Elternhaus und Wis­­sens­­chaft­­le­­r_in­­nen, die sich für sie en­­gagieren."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="54."/>
+                <tab/>
+                <ITEXT CH="Auslaufende Stellen zum Ende des Semesters führen dazu, dass angesammelte Hausarbeiten und Abschlussarbeiten häu­­fig auch nach Auslaufen der Stelle von den Do­­zen­­t_innen korrigiert werden müssen, ohne dass dafür eine Bezahlung er­­folgt – obwohl dies rechtlich nicht zulässig ist. Kol­­leg_innen oder Nachfolger_innen können die Korrektur oft nicht übernehmen, weil sie selbst überlastet oder (noch) nicht hin­­reichend in die Thematik ein­­gearbeitet sind."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Verhinderung von Qualitätssicherung in der Lehre"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="55."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG trägt zur Verhinderung einer nach­­hal­­tigen Qualitätssicherung universitärer Lehre bei. Kon­­ti­­nu­­ier­­lich gute Lehre ist nicht möglich, da man dafür Erfahrung braucht und Unterrichtskonzepte ausprobieren sowie ge­­ge­­be­­nenfalls anpassen muss und neue Lehrende immer wieder von vorne damit anfangen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="56."/>
+                <tab/>
+                <ITEXT CH="Auch Hochschuldidaktik ist eine Daueraufgabe, wird aber nach WissZeitVG befristet."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="57."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG führt dazu, dass Lehre und Kom­­mis­­sions­­ar­­beit karriereschädlich sind, da sie im Vergleich zu Be­­reich­­en wie Publikationsoutput und Dritt­­mit­­tel­­ein­­wer­­bung bei Stel­­len­­besetzungen eher als nachrangig gel­­ten und de facto ver­­nach­­lässigt werden müssen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="D."/>
+                <tab/>
+                <ITEXT CH="Konsequenzen für Wissenschaftler_innen"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <tab/>
+                <ITEXT CH="Ausnutzung des Engagements von Wissenschaftler_innen"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="58."/>
+                <tab/>
+                <ITEXT CH="Die Bereitschaft zur Mehrarbeit in der Hoffnung, nicht aus dem Beruf ausscheiden zu müssen, wird auch in der Be­­mes­­sung von Lehrverpflichtungen entfristeter Hoch­­de­­pu­­tats­­stel­­len ausgenutzt: Das WissZeitVG treibt indirekt das Lehr­­­­de­­pu­­tat der (wenigen) entfristeten Stellen nach oben. Weil diese so rar sind, erklären sich Wissenschaftler_innen zu einem die Arbeitszeit von 40 Stunden meist deutlich überschreitenden Hochdeputat von 16 bis 24 SWS bereit, um nicht aus ihrem Beruf ausscheiden zu müssen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="59."/>
+                <tab/>
+                <ITEXT CH="Wer sich beim Verfassen von Anträgen engagiert, um die eigene Perspektive zu sichern, hat keinerlei Garantie, dass das Engagement sich auszahlt: Mitautor_innen von An­­trä­­gen müssen damit rechnen, dass ihnen die Per­­so­­nal­­ab­­tei­­lungen keinen Vertrag ausstellen bzw. verlängern – aus Angst vor Kettenverträgen und den damit einhergehenden Klagen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="60."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG führt dazu, dass wissenschaftliche Be­­schäf­­tigte selbst nach jahrelanger Tätigkeit als „Nachwuchs“ be­­zeich­­net werden und ihre Arbeit als Eigenqualifikation, nicht als gesellschaftsrelevante Leistung in Forschung und Lehre verstanden wird."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="61."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG sorgt dafür, dass entfristete wis­­sen­­schaft­­liche Mitarbeiter_innen als Störfaktor im Getriebe der Uni wahr­­genommen werden, da sie als zu teuer gelten und nicht mehr be­­liebig austauschbar sind. Die Expertise erfahrener wis­­sen­­schaftlicher Mitarbeiter_innen wird nicht genug wert­­ge­­schätzt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="62."/>
+                <tab/>
+                <ITEXT CH="Wissenschaftler_innen pendeln auf befristeten Stellen dienstags, mittwochs und donnerstags an Hochschulorte, ohne dort nachhaltige Netzwerke außerhalb des El­­fen­­bein­­turms aufbauen zu können. Soziales und politisches En­­ga­­ge­­ment sowie Wissenschaftskommunikation vor Ort sind so nicht möglich."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="63."/>
+                <tab/>
+                <ITEXT CH="Wenn das Drittmittel-Projekt fertig werden muss, muss so viel Arbeitszeit investiert werden, wie es eben braucht. Sonst gilt das als Scheitern. Dadurch wird die ohnehin knappe Zeit für die Qualifikation nebenher auch noch knapp, sowohl in der Gegenwart als auch in der Zukunft."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Risiko von Machtmissbrauch durch Vorgesetzte und Verwaltungen"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="64."/>
+                <tab/>
+                <ITEXT CH="Die Arbeitsbedingungen in der Wissenschaft sind weder hinsichtlich einer gesicherten, an Kompetenzen und Er­­fah­­rungen orientierten angemessenen Vergütung noch hin­­sicht­­lich ihrer erwartbaren Dauer verlässlich: Passen die Verträge nicht ohne Unterbrechung aneinander, kommt es vor, dass eine Universität den wissenschaftlich Be­­schäf­­tigten alle vor­­herigen Erfahrungsstufen aberkennt und sie trotz mehrerer Jahre Berufserfahrung wieder mit einem An­­fän­­ge­­r_in­­nen­­gehalt bezahlt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="65."/>
+                <tab/>
+                <ITEXT CH="Die einzige Verstetigung, die das WissZeitVG bewirkt, betrifft die Asymmetrie zwischen all denen, die als „Nach­­wuchs“ keine Professur inne haben, und Wis­­sen­­schaft­­le­­r_innen mit Professur auf Lebenszeit."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="66."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG fördert innerhalb dieser Asymmetrien to­­xi­­sche Arbeitsbeziehungen und schürt Interessenskonflikte zu Ungunsten der wissenschaftlich Beschäftigten, da Vor­­ge­­setzte (die vielfach zugleich Betreuende sind) bei Kon­­flikten immer mit der Nichtverlängerung oder Ver­­weigerung einer Wei­­ter­­förderung drohen können."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Erschwerter Übergang in die Wirtschaft"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="67."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG erschwert einen reibungslosen Übergang in die freie Wirtschaft. Die häufigen Stellenwechsel, wech­­seln­­den Stellenbezeichnungen oder sogar Pausen zwischen zwei Ver­­trägen werden im Lebenslauf außerhalb des El­­fen­­beinturms als Stigma betrachtet."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="68."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG setzt durch die Dauerqualifikation den An­­reiz zu fortwährender Wiederanstellung, bis ein Alter und eine Qualifikation erreicht sind, die sich nachteilig auf eine Berufsperspektive außerhalb der Universität auswirken. Durch die aktuelle Struktur werden die besten eines Jahrgangs sys­­tematisch verbrannt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="69."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG zwingt einen dazu, alles auf die Karte Wissenschaft zu setzen und sich zu hyperspezialisieren. Die An­­eignung von Kompetenzen, die außerhalb der Wis­­sen­­schaft gefragt sind, wird im akademischen Betrieb maximal als Hobby betrachtet. Sie fressen dann Zeit für die Aufgaben, die in der Wissenschaft als Qualifikation ge­­wer­­tet werden. Sie werden innerbetrieblich darüber hinaus oft als mangelnde Loyalität und Opferbereitschaft für die Wis­­senschaft gelesen."/>
+                <para PARENT="Thesen_Normal"/>
+                <para PARENT="Thesen_Normal"/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Folgen für die private Lebensplanung"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="70."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG ist kinder- und familienfeindlich. Es führt zum Aufschub der Familienplanung oder zum Verzicht auf Familiengründung aufgrund der mangelnden Planbarkeit der eigenen Zukunft. Für viele heißt die Entscheidung: Karriere in der Wissenschaft ODER Familie. Im schlimm­­sten Fall ist man am Ende aber arbeits- UND familienlos."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="71."/>
+                <tab/>
+                <ITEXT CH="Wer dennoch Kinder hat, wird durch die Erwartung an entgrenzte Arbeit abgehängt. Das WissZeitVG bestraft Eltern (und insbesondere Mütter) und verhindert einen gerechten Zugang bzw. eine gerechte Teilhabe am akademischen Be­­trieb. Wer nichtsdestotrotz Familie und eine Stelle in der Wis­­sen­­schaft hat, lässt viel zu oft viel zu viel auf der Strecke und lebt in ständiger Unzufriedenheit und mit großem Schuld­­gefühl."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="72."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG ist belastend für junge Familien, solange die Familienkomponente, Verlängerung der Frist um zwei Jahre pro Kind, nur als Kann-Bestimmung angewandt wird."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="73."/>
+                <tab/>
+                <ITEXT CH="Familien haben keinen festen Standort und werden durch die erzwungene Mobilität immer wieder entwurzelt. Während andere mit Mitte 30 ein Haus bauen, können Angestellte im Mittelbau dies weder finanzieren (befristet Angestellte erhalten auch keinen Kredit in der erforderlichen Höhe) noch ist der zukünftige Le­­bens­­mit­­telpunkt geklärt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="74."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG führt Betroffene in die Altersarmut. Durch Teilzeitverträge und Beschäftigungslücken sowie die lange Phase der Unsicherheit werden weniger Beiträge in die ge­­setz­­liche Rentenversicherung eingezahlt. An eine zu­­sätz­­liche private Absicherung ist nicht zu denken."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="75."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG berücksichtigt nicht, dass zwischendurch auch mal ganz einfach das Leben passiert: Pflege von An­­ge­­hörigen, Krisen wie z.B. der Tod von Freunden etc. Es gibt kei­­ne feste Regelung, wie sich Angehörigenpflege auf die Be­­fristung auswirkt. Damit hat man nicht nur mit der Sorge um einen geliebten Menschen zu tun, sondern ist ge­­zwun­­gen, sich parallel weiter zu qualifizieren, um inner­­halb der Frist zu bleiben."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="76."/>
+                <tab/>
+                <ITEXT CH="Die Finanzierung von wissenschaftlichem Nachwuchs kon­­zen­­triert sich zu sehr auf die Prädoc-Ausbildung (= billige Ar­­beitskräfte) und vernachlässigt die Schritte da­­nach über­­proportional (= falsche Versprechen)."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Psychische Gesundheit und Folgen für das Gesundheitssystem"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="77."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG in seiner jetzigen Form ist Ausdruck der Ideologie, dass nur Leistung bringen kann, wer Angst hat. Diese Auffassung widerspricht dem Stand der Forschung der Motivations- und Arbeitspsychologie: Angst blockiert Krea­­ti­­vi­­tät, während Sicherheit, Sinn und Selbst­­be­­stim­­mung für hö­­here und bessere Arbeitsleistungen sorgen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="78."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG ist ein Misstrauensbeweis gegenüber Wis­­sen­­schaft­­ler_innen, da der Gesetzgeber glaubt, sie mit Druck und Existenzängsten zum Arbeiten motivieren zu müssen. Das Gegenteil ist der Fall: Diese Ängste lenken von den eigentlichen Tätigkeiten ab."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="79."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG löst ernsthafte Zukunftsängste aus. Dau­­er­­hafte Befristung macht (Existenz-)Angst. Angst macht krank! Das WissZeitVG schadet der Gesundheit und för­­dert Burn­­out und depressive Störungen. Gleichzeitig hält die Hoff­­nung auf Verbeamtung Betroffene davon ab, sich ärzt­­liche Hilfe zu suchen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="E."/>
+                <tab/>
+                <ITEXT CH="Konsequenzen für Bürokratie, Verwaltung und Sozialkassen – Forschung auf ALG I und II"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <tab/>
+                <ITEXT CH="Aushöhlung des Arbeitsrechts"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="80."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG erschwert es wissenschaftlich Bes­­chäf­­tig­­ten, ihre Interessen zu vertreten, weil Gremienarbeit durch den ständigen Personenaustausch erschwert wird. Dies behindert auch eine gewerkschaftliche Organisation."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="81."/>
+                <tab/>
+                <ITEXT CH="Befristete Verträge bieten die Möglichkeit, die geltenden Regelungen zum Kündigungsschutz zu umgehen, weil Ver­­träge automatisch auslaufen und die Verlängerung einen neu­­en Vertragsschluss erfordert. Selbst besonders schutz­­be­­dürf­­tige Personen, die auf unbefristeten Stellen aus gutem Grund nicht kündbar wären (Schwangere, Er­­krank­­te), haben bei Befristung als Normalfall keinen Anspruch auf Wei­­ter­­be­­schäftigung."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="82."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG begünstigt unbezahlte Mehrarbeit, hinter der die verzweifelte Hoffnung steckt, dass ‚Leistung‘ in die Professur führt – eine Hoffnung, die sich für den Großteil be­­fris­­teter Wissenschaftler_innen nicht erfüllen wird."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="83."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG kann zudem indirekt als Dis­­zi­­pli­­nar­­maß­­nahme und als verlängerte (oder dauerhafte) Probephase instrumentalisiert werden, weil ständig die Bewährung für die Verlängerung eingefordert wird."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Belastung der Sozialkassen"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="84."/>
+                <tab/>
+                <ITEXT CH="Trotz ihrer hohen Qualifikationen droht Wis­­sen­­schaft­­le­­r_innen aufgrund des WissZeitVG regelmäßig die Ar­­beits­­lo­­sig­­keit. Wenn sich Verträge mit kurzen Laufzeiten und Stipendien abwechseln, ist der Anspruch auf Ar­­beits­­lo­­sen­­geld I aufgrund der Kürze der Arbeitsverhältnisse verkürzt oder entfällt sogar ganz."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="85."/>
+                <tab/>
+                <ITEXT CH="Dank WissZeitVG wird auch die Zentral­­unter­­stützungs­­kasse für notleidende Hochschullehrer (ZUK) des Deut­­schen Hoch­­schulverbands nicht überflüssig werden, im Gegenteil."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="86."/>
+                <tab/>
+                <ITEXT CH="Arbeitsverhältnisse enden regelmäßig vor dem Erreichen von Qualifikationszielen, sodass Qualifikationsarbeiten in der Arbeitslosigkeit abgeschlossen werden – auch wenn die ur­­sprüng­­liche Stelle weiter fortbesteht. Forschung in Deutsch­­land wird regelmäßig durch Arbeitslosengeld und So­­zial­­leis­­tungen ‚zwischenfinanziert‘, weil Lücken zwi­­schen Verträgen auf diese Weise geschlossen werden müs­­sen. Dadurch werden die Sozialkassen unnötig belastet."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="87."/>
+                <tab/>
+                <ITEXT CH="Die psychologischen Folgekosten des WissZeitVG belasten das Gesundheitssystem."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG produziert unnötige Bürokratie"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="88."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG führt zu sehr viel Bürokratie, weil ständig neue Arbeitsverträge ausgestellt und Bewerbungsverfahren durch­­geführt werden müssen. Teil der bürokratischen Bürden ist die Unsicherheit aufseiten der Hoch­­schul­­ver­­waltungen: Aus Angst vor Klagen werden Einstellungen oft ge­­scho­­ben oder verhindert; Verfahren werden häufig aus rechtlichen Unsicherheiten eingestellt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="89."/>
+                <tab/>
+                <ITEXT CH="Wissenschaftler_innen müssen sich immer wieder unnötig arbeitslos melden, weil sie ihren (oft schon zugesagten, aber durch verzögerte Verwaltungsprozesse noch nicht aus­­ge­­stell­­ten) neuen Vertrag noch nicht haben und der alte in drei Mo­­na­­ten ausläuft. Dies führt zu unnötiger Bürokratie."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="F."/>
+                <tab/>
+                <ITEXT CH="Konsequenzen für Chancengleichheit, Gleichstellung und Inklusion"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <ITEXT CH="90."/>
+                <tab/>
+                <ITEXT CH="Die Publikationsliste hat direkte Auswirkungen auf Kar­­rie­­re­­chancen in der Wissenschaft. Wer aber kann gut ver­­öffent­­li­­chen mit befristeten Verträgen, Vertretungen oder un­­be­­zahl­­ten Privatdozenturen? Die Unsicherheit, die das WissZeitVG produziert, muss man sich finanziell eben leisten können. Dies führt dazu, dass nicht-privilegierte Gruppen es weiterhin nur in Ausnahmefällen bis zur Pro­­fessur schaffen werden."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="91."/>
+                <tab/>
+                <ITEXT CH="Aufgrund der Unsicherheit, die das WissZeitVG mit sich bringt, steigen überproportional viele Frauen aus dem Wis­­sen­­schaftsbetrieb aus. Das WissZeitVG macht es möglich, Eltern, davon meist die Frauen, in Elternzeit zu be­­nach­­tei­­ligen. Ausfallzeit kann nämlich u.U. nur kostenneutral an­­ge­­hängt werden. Was, wenn eine Vertretung aber un­­abdingbar ist?"/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="92."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG ist auch eine Frage von Klassismus und Chancengleichheit. Wenn wissenschaftliche Karrieren eine unsichere Perspektive bleiben, werden sie auch zukünftig tendenziell nicht von Arbeiterkindern angestrebt. Das Wiss­­Zeit­­VG fördert somit Klassenunterschiede: Wer kann es sich leisten, unter- oder gar unbezahlt zu sein? Der deutsche Wis­­sen­­schaftsbetrieb kann unter diesen Um­­ständen niemals eine Meritokratie sein. Das Gesetz führt im Übrigen dazu, dass es für Promovierende aus Nicht-Akademikerfamilien noch schwie­­riger wird, den „Ar­­beits­­platz Uni­­versität“ mit seinen eigen­­willigen „Regeln“ der Familie zu vermitteln."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="93."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG ist in seinen Konsequenzen rassistisch. Black, Indigenious und People of Color haben weniger Chancen im Wissenschaftssystem."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="94."/>
+                <tab/>
+                <ITEXT CH="Das WissZeitVG ermöglicht bei Schwerbehinderung eine Verlängerung der maximalen Befristungsdauer, ge­­währ­­leistet aber ausdrücklich keinen Anspruch darauf. Dies führt zu einer massiven Benachteiligung von Wis­­sen­­schaft­­ler_innen mit Behinderung."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="95."/>
+                <tab/>
+                <ITEXT CH="Die negativen Effekte des WissZeitVG hinsichtlich Di­­ver­­sität sind mit Quotenregelungen nicht aufzufangen. Das Problem dabei ist, dass viele eigentlich höchst geeignete Personen, die auch diversere Perspek­­tiven und Fra­­ge­­stel­­lun­­gen einbringen könnten, das Le­­bens­­ri­­si­­ko „Wis­­sen­­schaft“ daher nicht ein­­gehen werden."/>
+                <trail PARENT="Thesen_Normal"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="852.001" YPOS="1408.801" OwnPage="0" ItemID="1944132076" PTYPE="4" WIDTH="932" HEIGHT="351.5" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L932 0 L932 351.5 L0 351.5 L0 0 Z" copath="M0 0 L931.997 0 L931.997 351.501 L0 351.501 L0 0 Z" gXpos="4.50099999999998" gYpos="0" gWidth="940.501" gHeight="427.62539200334" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="Thesen_Titel"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="847.5" YPOS="1484.42639200334" OwnPage="0" ItemID="1939545068" PTYPE="4" WIDTH="940.50001980196" HEIGHT="352" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L940.5 0 L940.5 352 L0 352 L0 0 Z" copath="M0 0 L940.5 0 L940.5 352 L0 352 L0 0 Z" gXpos="0" gYpos="75.62539200334" gWidth="940.501" gHeight="427.62539200334" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="95 Thesen gegen das  WissZeitVG"/>
+                <trail PARENT="Thesen_Titel"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.5">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="648" PAGEHEIGHT="268.724409448819" BORDERLEFT="5.66929133858268" BORDERRIGHT="5.66929133858268" BORDERTOP="5.66929133858268" BORDERBOTTOM="5.66929133858268" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="de" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Graubraun" SPACE="CMYK" C="63.5263599603265" M="75.3963530937667" Y="63.8208590829328" K="86.5537499046311"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN>
+            <EXCEPTION WORD="metaphor" HYPHENATED="me-ta-phor"/>
+            <EXCEPTION WORD="Coronavirus" HYPHENATED="Co-ro-na-vi-rus"/>
+        </HYPHEN>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Thesen_Normal" ALIGN="3" LINESP="2.9" INDENT="4.81889763779528" RMARGIN="4.81889763779528" FIRST="-4.81889763779528" VOR="0" NACH="0.14" FONT="EB Garamond 08 Regular" FONTSIZE="2.9" FONTFEATURES="-clig" FCOLOR="Graubraun" LANGUAGE="de">
+            <Tabs Type="0" Pos="4.81889763779528" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Thesen_Überschriften" PARENT="Thesen_Normal" LINESP="3.7" VOR="2.8" NACH="0.8" BCOLOR="None" FONTSIZE="4" FCOLOR="Black"/>
+        <STYLE NAME="Thesen_Überschrift2" PARENT="Thesen_Überschriften" LINESP="3.2" INDENT="4.81889763779528" FIRST="-4.81889763779528" VOR="1.3" NACH="0.5" FONT="EB Garamond 12 Italic" FONTSIZE="3.3" FONTFEATURES="" FCOLOR="Black">
+            <Tabs Type="0" Pos="4.81889763779528" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Thesen_Titel" PARENT="Thesen_Normal" ALIGN="1" LINESP="24" INDENT="9.92125984251969" RMARGIN="0" FIRST="-9.92125984251969" VOR="0" NACH="0" FONT="EB Garamond 12 Regular" FONTSIZE="25" FONTFEATURES="-clig">
+            <Tabs Type="0" Pos="9.92125984251969" Fill=""/>
+        </STYLE>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="de"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-1549556829" PDLanguage="-1549556829" markLength="-5.27735271320721e-137" markOffset="-5.27735271320721e-137" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="Arial Regular"/>
+            <Subset Name="EB Garamond 08 Regular"/>
+            <Subset Name="EB Garamond 12 Italic"/>
+            <Subset Name="EB Garamond 12 Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="648" PAGEHEIGHT="268.724409448819" BORDERLEFT="4.25196850393701" BORDERRIGHT="4.25196850393701" BORDERTOP="4.25196850393701" BORDERBOTTOM="4.25196850393701" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="648" PAGEHEIGHT="268.724409448819" BORDERLEFT="4.25196850393701" BORDERRIGHT="4.25196850393701" BORDERTOP="4.25196850393701" BORDERBOTTOM="4.25196850393701" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="641.848 " HorizontalGuides="133.856 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="422.627451443569" YPOS="520.10624671916" OwnPage="-1" ItemID="1906728940" PTYPE="2" WIDTH="1082.83464566929" HEIGHT="487.56982665195" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.201059722330701" LOCALSCY="0.201059722330701" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../Hintergrund Auswahl/photo-paper-5.jpg" EPROF="Embedded Apple RGB" IRENDER="0" EMBEDDED="0" path="M0 0 L1082.83 0 L1082.83 487.57 L0 487.57 L0 0 Z" copath="M0 0 L1082.83 0 L1082.83 487.57 L0 487.57 L0 0 Z" gXpos="422.627081364829" gYpos="520.10650656168" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="695.025771653543" YPOS="235.92125984252" OwnPage="0" ItemID="1939545068" PTYPE="2" WIDTH="51.172537643322" HEIGHT="55.2745098039219" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.113464606747942" LOCALSCY="0.113464606747942" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../QR/1401ba6c1b1e227d1834d67d0a327c9ffb78f5b7-1606812192.png" IRENDER="0" EMBEDDED="0" path="M0 0 L51.1725 0 L51.1725 55.2745 L0 55.2745 L0 0 Z" copath="M0 0 L51.1725 0 L51.1725 55.2745 L0 55.2745 L0 0 Z" gXpos="695.025771653543" gYpos="235.92125984252" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="105.669921259843" YPOS="29.0480516858474" OwnPage="0" ItemID="1943994348" PTYPE="4" WIDTH="642.492333333333" HEIGHT="254.478195033313" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="7" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L642.492 0 L642.492 254.478 L0 254.478 L0 0 Z" copath="M0 0 L642.492 0 L642.492 254.478 L0 254.478 L0 0 Z" gXpos="105.669551181103" gYpos="29.0483115283672" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="A."/>
+                <tab/>
+                <ITEXT CH="Kon­se­quen­zen für die Wis­sen­schaft und den Wis­sen­schafts­stand­ort Deutsch­land"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <tab/>
+                <ITEXT CH="Ver­schwen­dung von Steu­er­gel­dern und Hu­man Re­sources"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="1."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ver­schwen­det Un­men­gen von Steu­er­mit­teln. Es zwingt das Wis­sen­schafts­sys­tem da­zu, sei­ne wert­volls­ten In­ves­ti­ti­o­nen – her­vor­ra­gend aus­ge­bil­de­te Ex­­per­t_in­nen – spä­tes­tens nach zwölf Jah­ren auf­grund von sach­­frem­den, zu­fäl­lig aus­ge­wähl­ten Um­stän­den zu ent­las­sen und so in­di­rekt (we­gen Man­gels an un­be­fris­te­ten Stel­len) mit ei­nem Ein­stel­lungs­ver­bot zu be­le­gen. Das Wiss­­ZeitVG führt so zu ei­ner sys­te­mi­schen Ver­bren­nung von Kom­pe­tenz durch stän­di­gen Per­so­nal­aus­tausch und zu ei­nem Ver­lust an Wett­be­werbs­fä­hig­keit des deut­schen Wis­sen­schafts­sys­tems. In der frei­en Wirt­schaft wä­re die­ses Vor­ge­hen auf­grund sei­ner frap­pie­ren­den In­ef­fi­zi­enz un­­denk­­bar: Kein Un­ter­neh­men wür­de nach 12 Jah­ren sei­ne Mit­­ar­­bei­­ter_in­nen ent­las­sen, ob­wohl sie Leis­tung brin­gen und das Un­ter­neh­men im­mens in sie und ih­re Qua­li­fi­ka­ti­on in­ves­tiert hat."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="2."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ver­hin­dert jeg­li­ches ef­fek­ti­ves Ma­nage­ment, denn es steht auf ver­schie­de­nen Ebe­nen der da­für er­for­der­li­chen Pla­nungs­si­cher­heit ent­ge­gen. Wis­­sen­­schaft­­le­r_in­nen fehlt die­se Pla­nungs­si­cher­heit im Hin­blick auf ih­re Kar­ri­e­re und ihr Le­ben. Für Stu­die­ren­de wirkt sich die feh­len­de Pla­nungs­si­cher­heit auf die Lehr- und Prü­fungs­qua­li­tät aus. In der For­schung ver­hin­dert man­geln­de Pla­nungs­si­cher­heit nach­hal­ti­ge pro­fil­bil­den­de Wis­sen­schaft."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="3."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG führt oft be­reits vor dem Aus­schöp­fen der in­di­vi­du­el­len Höchst­be­fris­tungs­dau­er zu ei­nem Brain Drain in der Wis­sen­schaft, weil es die Plan­bar­keit von Le­bens­läu­fen ver­hin­dert: Qua­li­fi­zier­te Wis­sen­schaft­le­r_in­nen wech­seln ins Aus­land, weil in Deutsch­land lan­ge Zeit nicht ab­seh­bar ist, ob sie über­haupt ei­ne lang­fris­ti­ge Per­spek­ti­ve im Wis­sen­schafts­be­trieb ha­ben wer­den. Aus­län­di­schen Kol­leg_in­nen kann man das Ge­setz oh­ne­hin kaum er­klä­ren – sie sind dar­über zu Recht fas­sungs­los."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="4."/>
+                <tab/>
+                <ITEXT CH="Dank Wiss­ZeitVG sind die Be­fris­tungs­quo­ten in der Wis­sen­schaft sehr viel hö­her als in an­de­ren Be­rei­chen, in de­nen hoch­qua­li­fi­zier­tes Per­so­nal ar­bei­tet und wo nur das Teil­zeit- und Be­fris­tungs­ge­setz an­wend­bar ist, das sehr viel stren­ge­re Maß­stä­be setzt. Wäh­rend 2019 knapp 12"/>
+                <nbspace/>
+                <ITEXT CH="% der in Deutsch­land ab­hän­gig Be­schäf­tig­ten be­fris­tet wa­ren, geht die Wis­sen­schaft ei­nen Son­der­weg mit der­zeit 78"/>
+                <nbspace/>
+                <ITEXT CH="% be­fris­te­tem Per­so­nal."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="5."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG be­wirkt das Ge­gen­teil des In­ten­dier­ten, denn es ver­hin­dert un­be­fris­te­te An­stel­lun­gen, statt Ent­fris­tun­gen zu för­dern. Es sorgt da­für, dass sich Ver­wal­tun­gen kei­ne Ge­dan­ken über den Auf­bau nach­hal­ti­ger Stel­len ma­chen müs­sen. In­zwi­schen steht das Ge­setz so sehr für die Si­che­rung der Be­fris­tungs­pra­xis in der Wis­sen­schaft, dass Kri­tik dar­an re­gel­mä­ßig Ge­ge­n­ar­gu­men­te her­vor­ruft, die mit frag­wür­di­gen Prä­mis­sen zu be­grün­den su­chen, war­um man in der Wis­sen­schaft wei­ter­hin Be­fris­tung brau­che (vgl. Bay­reuther Er­klä­rung der Uni­ver­si­täts­kanz­le­r_in­nen)."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="6."/>
+                <tab/>
+                <ITEXT CH="Die po­ten­ti­el­le Ver­län­ge­rung der Wiss­ZeitVG-Fris­ten auf­grund von Co­ro­na be­weist, dass al­le längst wis­sen, dass das Wiss­ZeitVG Wis­sen­schaft­le­r_in­nen scha­det und nicht hilft. Erst die Exis­tenz des Ge­set­zes macht ent­spre­chen­de Här­te­fall­re­ge­lun­gen über­haupt nö­tig. Da die Ver­län­ge­rung ei­ne blo­ße Kann-Ver­län­ge­rung ist, kön­nen Wis­sen­schaft­le­r_in­nen zu­dem nicht si­cher da­mit rech­nen, dass ih­re Uni­ver­si­tä­ten ih­re Ar­beits­ver­hält­nis­se auch ent­spre­chend ver­län­gern."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Kon­se­quen­zen für wis­sen­schaft­li­che Qua­li­tät / Main­stre­a­ming von Wis­sen­schaft"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="7."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG scha­det al­lem, was wis­sen­schaft­li­che Ex­zel­lenz in ei­ner For­schungs­ge­mein­schaft aus­macht: der Viel­falt der For­schen­den und Per­spek­ti­ven, der Sorg­falt in der For­schung, der Hoch­schul­leh­re so­wie ei­ner Kul­tur der Kol­la­bo­ra­ti­on, In­no­va­ti­on und Nach­hal­tig­keit"/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH=".8."/>
+                <tab/>
+                <ITEXT CH="Gu­te Wis­sen­schaft braucht Zeit und Frei­raum, Ge­dan­ken zu ver­fol­gen und auch in Sack­gas­sen ren­nen zu dür­fen, um da­nach neu zu be­gin­nen. Kurz be­fris­te­te Ket­ten­ver­trä­ge und das dro­hen­de En­de der Kar­ri­e­re nach Er­rei­chen der Höchst­be­fris­tungs­dau­er ma­chen dies für das Gros deut­scher Wis­sen­schaft­le­r_in­nen un­mög­lich. Wer sich mit schwie­ri­gen Fra­ge­stel­lun­gen be­schäf­tigt, die für die Ge­sell­schaft hoch­re­le­vant sein kön­nen, wer in­no­va­tiv ist, neue We­ge sucht und auch Um­we­ge geht und Ver­schie­de­nes aus­pro­biert, der be­nö­tigt Zeit und be­kommt so mit­un­ter Pro­ble­me mit dem Wiss­ZeitVG."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="9."/>
+                <tab/>
+                <ITEXT CH="Der Zeit- und Kar­ri­e­re­druck, den das Wiss­ZeitVG auf­baut, sorgt in der For­schung nicht für mehr gu­te Ide­en, Ri­si­ko­wil­len und Qua­li­täts­out­put, son­dern für Ver­fla­chung, Markt- und Dis­kurs­kon­for­mi­tät und Ori­en­tie­rung an ei­ner frag­wür­di­gen Auf­­merk­­sam­­keits­­öko­­no­­mie. Das Wiss­Zeit­­VG führt da­zu, dass vie­le auf Main­­stre­am­­t­he­­men set­zen, um ih­re Chan­cen auf Wei­t­er­be­schäf­ti­gung zu er­hö­hen, statt in­no­va­ti­ven For­schungs­ide­en nach­zu­ge­hen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="10."/>
+                <tab/>
+                <ITEXT CH="Wer we­gen des Wiss­ZeitVG zu schnell for­schen muss, muss meist zu schlecht for­schen. Das Da­mo­kles­schwert von Kurz­zeit­ver­trä­gen und Höchst­be­fris­tungs­dau­er in der Wis­sen­schaft ge­fähr­det er­geb­nis­neu­tra­le, wahr­heits­ori­en­tier­te For­schung."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="11."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG kehrt die Lo­gik von Zeit­lich­keit und For­schung auf fa­ta­le Wei­se um: Ein For­schungs­pro­jekt ist nicht dann be­en­det, wenn es fer­tig ist, son­dern wenn Pro­jekt­fi­nan­zie­rung oder Ar­beits­ver­trag aus­lau­fen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="12."/>
+                <tab/>
+                <ITEXT CH="Be­fris­tung wirkt sich ne­ga­tiv auf Pro­jek­teer­geb­nis­se aus, da wäh­rend der Pro­jekt­ar­beit schon das nächs­te Pro­jekt ent­ste­hen und bean­tragt wer­den muss."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="13."/>
+                <tab/>
+                <ITEXT CH="Dank Wiss­ZeitVG müs­sen vie­le Wis­sen­schaft­le­r_in­nen in der Zeit, die sie sonst für For­schung, Leh­re oder Wis­sen­schafts­kom­mu­ni­ka­ti­on zur Ver­fü­gung hät­ten, ei­ne Be­wer­bung nach der an­de­ren schrei­ben. Denn ih­re Ar­­beits­­ver­­trä­ge sind be­fris­tet und de­ren Lauf­zei­ten kurz, mit­un­ter we­ni­ger als ein hal­b­es Jahr lang."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="14."/>
+                <tab/>
+                <ITEXT CH="Die Projektkultur führt erfahrungsgemäß häufig dazu, dass Anträge für bereits mehr oder weniger abgeschlossene Projekte gestellt werden müs­­sen, da die Temporalitäten von Projektkultur und guter Wissenschaft nicht zusammenpassen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="15."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ze­men­tiert un­sin­ni­ge und in­ef­fek­ti­ve Struk­­tu­ren durch stän­di­ge Auf­ga­ben- und Per­so­nal­wech­sel. Kaum ein Pro­jekt wird von An­fang bis En­de durch ein Team fer­tig­ge­stellt, da al­le auf dem Sprung sind."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="16."/>
+                <tab/>
+                <ITEXT CH="För­der­li­ni­en von BMBF und Stif­ter­ver­band lau­fen mit­tel­fris­tig ins Lee­re, da das Wiss­ZeitVG ei­ne Ver­ste­ti­gung von er­ar­bei­te­tem Wis­sen, Ko­ope­ra­ti­o­nen und in­sti­tu­ti­o­nel­len Ver­net­zungs­struk­tu­ren ver­hin­dert."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="17."/>
+                <tab/>
+                <ITEXT CH="Das Feh­len ei­ner lang­fris­ti­gen Per­spek­ti­ve und die stän­di­gen Wech­sel wir­ken sich ne­ga­tiv auf die Iden­ti­fi­ka­ti­on der Ein­zel­nen mit der je­wei­li­gen Uni­ver­si­tät und so­mit auf die uni­ver­si­tä­re Pro­fil­bil­dung aus. Sie füh­ren zu­gleich zur An­pas­sung an Er­war­tun­gen und ver­stär­ken die Ab­hän­gig­keit von Vor­ge­setz­ten."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="18."/>
+                <tab/>
+                <ITEXT CH="Durch das Wiss­ZeitVG do­mi­niert in der Wis­sen­schaft Kon­kur­renz­den­ken und Ein­zel­kämp­fer­tum. Lang­fris­ti­ge Ko­ope­ra­ti­o­nen kön­nen nur be­grenzt auf­ge­baut wer­den. Vor­bild­li­che An­sät­ze wer­den nach dem Ver­trags­en­de ih­rer In­iti­a­tor_in­nen nicht wei­ter­ver­folgt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="19."/>
+                <tab/>
+                <ITEXT CH="Es soll­te nicht un­er­wähnt blei­ben, dass vie­le jun­ge Men­schen das Wiss­ZeitVG aus­hal­ten, weil sie pas­si­o­niert sind, ihren Job lie­ben, leh­ren und for­schen möch­ten. Dies wür­de zu ei­ner ho­hen Qua­li­tät der For­schung und Leh­re füh­ren, gä­be es nicht die Brem­se der Exis­tenz­ängs­te, Be­fris­tun­gen etc."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="20."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG bremst For­schung aus, weil sie nicht mit­tel- und lang­fris­tig ent­wi­ckelt wer­den kann. Das geht nicht nur zu­las­ten der For­schen­den, son­dern kos­tet auch mehr Geld für das Sys­tem und bringt we­ni­ger Er­trä­ge."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="21."/>
+                <tab/>
+                <ITEXT CH="Mit be­fris­te­ten Ver­trä­gen lässt sich kei­ne lang­fris­ti­ge For­schungs­da­ten­ma­na­ge­ment-In­fra­struk­tur auf­bau­en."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="22."/>
+                <tab/>
+                <ITEXT CH="Un­be­fris­tet for­schen heißt auch, dass man Pro­jek­te oder For­schungs­zen­tren (mit)auf­baut, Stu­di­en­gän­ge auf die Bei­ne bringt, Dok­to­ran­d_in­nen und ge­ne­rell lan­ge Pro­jekt­vor­ha­ben be­treu­en kann. Wer will/kann das al­les ma­chen, wenn man weiß, man ist bald wo­an­ders?"/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="23."/>
+                <tab/>
+                <ITEXT CH="Aus­ge­rech­net in der Wis­sen­schaft wird die The­se, die dem Wiss­ZeitVG zu­grun­de liegt, nicht hin­ter­fragt, dass &quot;neue&quot; und &quot;jun­ge&quot; Köp­fe au­to­ma­tisch mehr In­no­va­ti­o­nen ins Sys­tem brin­gen. Die­se Aus­sa­ge ist in ih­rer Pau­scha­li­tät an­greif­bar und lässt zu­dem die Wir­kung der sys­­tem­­im­ma­­nen­ten Pro­zes­se au­ßer Acht, die eher An­pas­sung als In­no­­va­ti­on be­loh­nen."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Das un­sin­ni­ge Prin­zip „up or out“"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="24."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG be­feu­ert das Al­les-oder-Nichts-Prin­zip des deut­schen Wis­sen­schafts­be­triebs: Wer kei­ne Pro­fes­sur er­hält, fällt auf­grund der Höchst­be­fris­tungs­dau­er frü­her oder spä­ter aus dem Sys­tem her­aus. Vie­le Wis­sen­schaft­le­r_in­nen stre­ben aber nicht un­be­dingt ei­ne Pro­fes­sur an."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="25."/>
+                <tab/>
+                <ITEXT CH="Vie­le der durch das Wiss­ZeitVG aus dem Sys­tem aus­schei­den­den Wis­sen­schaft­le­r_in­nen sind hoch­qua­li­fi­ziert. Der qua­li­ta­ti­ve Ab­stand der we­ni­gen, die ei­ne Pro­fes­sur be­kom­men, zu den vie­len, die oh­ne Pro­fes­sur blei­ben, ist in Be­rei­chen mit star­ker Kon­kur­renz al­len­falls mi­ni­mal."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="26."/>
+                <tab/>
+                <ITEXT CH="Nicht je­de_r wird Pro­fes­sor_in wer­den. Das ist auch nicht wei­ter tragisch, da der Wis­sen­schafts­be­trieb nicht al­lein Pro­fes­sor_in­nen be­nö­tigt, um zu funk­ti­o­nie­ren. Nicht-Pro­fes­sor_in­nen be­dür­fen aber eben­falls ei­nes si­che­ren Um­fel­des. Wer­den ba­sa­le Si­cher­heits­be­dürf­nis­se die­ser Per­so­nen nicht er­füllt, be­schä­digt dies ei­ne Ge­ne­ra­ti­on von Wis­sen­schaft­le­r_in­nen."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="At­trak­ti­vi­täts­ver­lust der wis­sen­schaft­li­chen Kar­ri­e­re."/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="27."/>
+                <tab/>
+                <ITEXT CH="Wis­sen­schaft als Be­ruf hat auf­grund des Wiss­ZeitVG ex­trem an At­trak­ti­vi­tät ein­ge­büßt. Nach her­vor­ra­gen­den Ex­amens­prü­fun­gen win­ken vie­le mü­de ab auf die Fra­ge, ob sie ei­ne Pro­mo­ti­on an­stre­ben. In ei­ni­gen Fach­be­rei­chen herrscht be­reits Fach­kräf­te­man­gel und die Uni­ver­si­tä­ten sind in Be­zug auf die dort an­ge­bo­te­nen Ar­beits­ver­hält­nis­se im Ver­gleich mit der Pri­vat­wirt­schaft nicht mehr kon­kur­renz­fä­hig. Wer be­ruf­li­che Si­cher­heit/Per­spek­ti­ve braucht (sub­jek­tiv oder exis­ten­zi­ell), ver­lässt frü­her oder spä­ter die Wis­sen­schaft – egal, wie gut er/sie ist."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="28."/>
+                <tab/>
+                <ITEXT CH="Man kann nie­man­dem ei­ne wis­sen­schaft­li­che Lauf­bahn emp­feh­len. Un­ge­wiss­heit, Un­ver­ein­bar­keit und kom­pe­te­ti­ver In­di­vi­du­a­lis­mus ha­ben Dau­e­r­cha­rak­ter dank Wiss­ZeitVG im aka­de­mi­schen Be­trieb."/>
+                <tab/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Das Ge­setz läuft dem Prin­zip der Bes­ten­aus­le­se zu­wi­der"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="29."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG si­chert ei­nen längst über­hol­ten Sta­tus quo. Es nimmt dem so­ge­nann­ten ‚Nach­wuchs‘ Chan­cen und den Ein­rich­tun­gen und Vor­ge­setz­ten die Mög­lich­keit, die Bes­ten zu be­schäf­ti­gen."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Image der Wis­sen­schaft"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="30."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG spie­gelt letzt­lich die Ge­ring­schät­zung von Wis­sen­schaft in Po­li­tik und Ge­sell­schaft wi­der. Die­se Wis­sen­schafts­feind­lich­keit führt nicht zu­letzt auch in der ge­gen­wär­ti­gen Co­ro­na-Kri­se zur teil­wei­sen Ver­ach­tung der Wis­sen­schaft­le­r_in­nen. Im bes­ten Fall wird man da­für aus­ge­lacht, als hoch­qua­li­fi­zier­ter Mensch un­ter sol­chen Bedin­gun­gen zu ar­bei­ten. Das Wiss­ZeitVG ent­wer­tet so letzt­lich ei­ne gan­ze Bran­che als Ar­beit­ge­ber und da­mit auch die Ar­beit selbst."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="31."/>
+                <tab/>
+                <ITEXT CH="Auf­grund des Wiss­ZeitVG ver­spielt die Wis­sen­schaft Le­gi­ti­ma­ti­on ge­ra­de in wis­sen­schafts­fer­nen Be­rei­chen. Wer über das Wiss­ZeitVG dis­ku­tiert, muss über den ge­sell­schaft­li­chen Wert von Wis­sen­schaft und die Be­reit­schaft zu ih­rer an­ge­mes­se­nen Fi­nan­zie­rung dis­ku­tie­ren."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="För­de­rung von Miss­trau­en und Vet­tern­wirt­schaft, Er­zeu­gung von künst­li­cher Kon­kur­renz"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="32."/>
+                <tab/>
+                <ITEXT CH="Der enor­me Kon­kur­renz­druck im be­fris­te­ten Mit­tel­bau zer­stört Kol­le­gi­a­li­tät – so­wohl Freund­schaft, die für die Psy­che wich­tig ist, als auch Team­ar­beit, die das gan­ze In­sti­tut vor­an­brin­gen wür­de. Vie­le der net­tes­ten Kol­leg_in­nen sind auch die, die um den­sel­ben Job kämp­fen. Wis­sen tei­len mit Kol­leg_in­nen? Lie­ber nicht dank künst­li­cher Kon­kur­renz durch das Wiss­ZeitVG."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="33."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG führt zu ei­nem dem Wis­sen­schafts­dis­kurs und letzt­lich dem Ge­mein­wohl ab­träg­li­chen Ego­is­mus, weil na­he­zu je­de_r ir­gend­wann sei­ne Ide­a­le ver­liert und not­ge­drun­gen nur an sich selbst denkt. Die Pro­duk­ti­vi­tät von For­schung als Ge­mein­schafts­pro­jekt bleibt da­durch auf der Stre­cke."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="34."/>
+                <tab/>
+                <ITEXT CH="In der Wis­sen­schaft ist ei­ne Miss­trau­ens­kul­tur in­zwi­schen tief ver­an­kert. Der Ver­such, al­les zu kon­trol­lie­ren, führt in­des nicht zum Ab­bau von Vet­tern­wirt­schaft. Denn je un­si­che­rer die Kar­ri­e­re­we­ge, des­to mehr su­chen die Be­­treffen­­den Schlupf­lö­cher und brau­chen Be­zie­hun­gen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="35."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG be­ruht im Kern auf der Un­ter­stel­lung, dass jun­ge Wis­sen­schaft­le­r_in­nen nur durch Be­fris­tung zu Mo­ti­va­ti­on und Mo­bi­li­tät zu be­we­gen sei­en. Es ist ein Aus­druck des Miss­trau­ens ge­gen­über dem Ar­beits­wil­len und dem For­schungs­in­ter­es­se un­be­fris­te­ter Wis­sen­schaft­le­r_in­nen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="B."/>
+                <tab/>
+                <ITEXT CH="Feh­ler des Wiss­ZeitVG"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <tab/>
+                <ITEXT CH="Feh­ler des Ge­set­zes in Ziel- und Um­set­zung"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="36."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG un­ter­schei­det bei der Be­rech­nung der Be­fris­tungs­dau­er nicht zwi­schen Voll­zeit- und Teil­zeit­stel­len."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="37."/>
+                <tab/>
+                <ITEXT CH="Die üb­li­chen Teil­zeit­stel­len nach Wiss­ZeitVG le­gen na­he, dass Qua­li­fi­ka­ti­on im Rah­men der üb­ri­gen Zei­ten (= Frei­zeit) un­ter­zu­kom­men hat und nicht ei­gent­li­cher Sach­grund der Be­fris­tung und we­sent­li­cher Teil der Be­­schäf­­ti­gung ist."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="38."/>
+                <tab/>
+                <ITEXT CH="Es ist nicht si­cher­ge­stellt, dass das Stel­len­pro­fil so aus­ge­legt ist, dass die Ar­beit an der ei­ge­nen Wei­ter­qua­li­fi­ka­ti­on tat­säch­lich wäh­rend der Ar­beits­zeit mög­lich ist und ei­nen pro­zen­tu­a­len Um­fang hat, der ei­ne Qua­li­fi­ka­ti­on im ge­ge­be­nen Zeit­raum mög­lich macht."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="39."/>
+                <tab/>
+                <ITEXT CH="Es gibt kei­ne re­a­lis­tisch nutz­ba­ren recht­li­chen Me­cha­nis­men, die si­chern, dass die an­ge­setz­te Qua­li­fi­ka­ti­ons­zeit auch Zeit zur Qua­li­fi­ka­ti­on gibt und nicht wei­te­re Dienst­pflich­ten pri­o­ri­siert wer­den müs­sen. Die Per­so­na­lu­ni­on Be­treu­er_in und Vor­ge­setz­te_r ver­schärft das."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="40."/>
+                <tab/>
+                <ITEXT CH="Der Qua­li­fi­ka­ti­ons­be­griff des Wiss­ZeitVG ist – ge­ra­de in der Post­doc-Pha­se – sehr dehn­bar. Vie­le der ver­meint­li­chen Qua­li­fi­ka­ti­ons­stel­len sind tat­säch­lich Stel­len zur Si­che­rung des Lehr­an­ge­bots, ei­ner Dau­e­r­auf­ga­be der Hoch­schu­len."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="41."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG war we­sent­li­cher Bau­stein beim Out­sour­cing von TVL-Fä­hig­kei­ten in TVstud – weil da­durch ein für Ar­beit­ge­ber_in­nen we­ni­ger re­strik­ti­ver Be­fris­tungs­rah­men ge­nutzt wer­den konn­te, als für nicht­wis­sen­schaft­li­che Tä­tig­kei­ten vor­ge­se­hen ist. Auch wer­den im­mer wie­der nicht­wis­sen­schaft­li­che Tä­tig­kei­ten als wis­sen­schaft­li­che de­­fi­­niert, um das Wiss­ZeitVG zur An­wen­dung brin­gen zu kön­nen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="42."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG lässt un­ter­schied­li­che Fach­kul­tu­ren, wie Pu­bli­ka­ti­ons­pro­zes­se und -zei­ten, in den un­ter­schied­li­chen Dis­zi­pli­nen un­be­rück­sich­tigt. Die Dau­er bis zur Ver­öf­fent­li­chung ei­ner Stu­die kann je nach Fach zwi­schen zwei bis drei Mo­na­ten oder bis zu fünf Jah­ren va­ri­ie­ren."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="43."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ist kom­pli­ziert. Vie­le Pro­fes­sor_in­nen, die die Ein­stel­lungs­po­li­tik be­trei­ben, ken­nen sich an­ge­sichts der kom­ple­xen Rechts­la­ge zu we­nig aus. In der Fol­ge wer­den er­folg­rei­che Be­wer­ber_in­nen we­gen Feh­lern von Kom­mis­si­o­nen nicht ein­ge­stellt oder weil Mit­ar­bei­ten­de als Ri­si­ko gel­ten, da sie sich auf un­be­fris­te­te Stel­len ein­kla­gen könn­ten. Dies gilt selbst dann, wenn die Be­tref­fen­den die Gel­der für ih­re Stel­le selbst ein­ge­wor­ben ha­ben."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="44."/>
+                <tab/>
+                <ITEXT CH="Es herr­schen gra­vie­ren­de Un­ter­schie­de zwi­schen der Aus­le­gung des Ge­set­zes an ver­schie­de­nen Uni­ver­si­tä­ten – et­wa hin­sicht­lich der Fra­ge, wel­che Zei­ten an­ge­rech­net wer­den und wel­che nicht. Da­durch wird das Ge­gen­teil von Rechts­si­cher­heit er­reicht; er­zeugt wer­den statt­des­sen (un­ge­woll­te) stand­ortab­hän­gi­ge Vor- und Nach­tei­le für die Be­schäf­tig­ten."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="45."/>
+                <tab/>
+                <ITEXT CH="Auch dass Zei­ten der Dritt­mit­tel­be­fris­tung oh­ne Qua­li­fi­ka­ti­ons­an­teil, Sti­pen­di­en­zei­ten und Pro­mo­ti­ons­stu­di­en­zei­ten ne­ben Zei­ten mit An­stel­lung oh­ne Un­ter­schied re­gel­mä­ßig in die Höchst­be­fris­tungs­dau­er ein­ge­rech­net wer­den, ist ein Skan­dal. Das Wiss­ZeitVG ist ein Ge­setz, das Ro­si­nen­pi­cken er­laubt in ei­nem asym­me­tri­schen Macht­ge­fäl­le zu Un­guns­ten der Wis­sen­schaft­le­r_in­nen."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Fehl­an­rei­ze bzw. man­geln­de An­rei­ze"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="46."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG setzt den irr­sin­ni­gen An­reiz, den Ab­schluss der Qua­li­fi­ka­ti­on stra­te­gisch hin­aus­zu­zö­gern, um die 12 Jah­re aus­zu­rei­zen, auch wenn man frü­her fer­tig wer­den könn­te, weil mit dem Ab­schluss der Be­fris­tungs­grund ent­fällt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="47."/>
+                <tab/>
+                <ITEXT CH="Das Ban­gen um Ver­län­ge­rung för­dert Selbst­dar­stel­lung und Net­wor­king, nicht qua­li­ta­tiv hoch­wer­ti­ge For­schung und Leh­re. Wis­sen­schafts­kom­mu­ni­ka­ti­on zu lie­ben und sie ger­ne zu ma­chen hat im Wiss­ZeitVG kei­nen Raum. Wis­sen­schaft­le­r_in­nen sind ge­zwun­gen, statt­des­sen die Din­ge zu pri­o­ri­sie­ren, die Qua­li­fi­ka­ti­ons­ar­bei­ten vor­an­brin­gen oder den nächs­ten Ver­trag wahr­schein­li­cher ma­chen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="48."/>
+                <tab/>
+                <ITEXT CH="Pa­ra­dox: Es gibt kei­ner­lei Prü­fung der wis­sen­schaft­li­chen Leis­tun­gen bei Ver­län­ge­run­gen (oder Nicht-Ver­län­ge­run­gen), denn nach Wiss­ZeitVG ist gu­te Ar­beit gar kein Kri­te­ri­um. Es zählt nur, ob man rechts­kon­form ver­län­gert wer­den kann oder nicht."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="49."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ist Teil ei­nes Sys­tems, das En­ga­ge­ment in der Leh­re und gründ­li­che wis­sen­schaft­li­che Ar­beit nicht för­dert, weil sich bei­des nach­tei­lig auf die Kar­ri­e­re aus­wir­ken kann, für die vor­ran­gig (viel) For­schungs­out­put zählt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="50."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG be­deu­tet, sich schon vor dem (po­ten­ti­el­len) Be­ginn der ei­ge­nen wis­sen­schaft­li­chen Kar­ri­e­re Ge­dan­ken um das Da­nach zu ma­chen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="51."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ist ei­ne zen­tra­le Ur­sa­che da­für, dass sich die Fra­ge des Ver­bleibs in der Wis­sen­schaft zu­meist erst sehr spät (mit Mit­te 40) ent­schei­det, weil es die Se­lek­ti­on hin­aus­zö­gert."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="52."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG be­trach­tet die Post­Doc-Zeit als Pha­se und nicht als Be­ruf, da­bei be­weist schon die Pro­mo­ti­on die Be­fä­hi­gung zum selbst­stän­di­gen Ar­bei­ten."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="C."/>
+                <tab/>
+                <ITEXT CH="Kon­se­quen­zen für Stu­die­ren­de"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <tab/>
+                <ITEXT CH="Dis­kon­ti­nu­i­tät bei An­sprech­part­ner_in­nen"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="53."/>
+                <tab/>
+                <ITEXT CH="Stu­die­ren­de ha­ben durch das Wiss­ZeitVG kaum kon­stan­te An­sprech­part­ner_in­nen. Oft­mals kön­nen Ab­schluss­ar­bei­ten nicht be­treut wer­den, weil Ver­trä­ge aus­lau­fen. Dank Wiss­ZeitVG ist kei­ne kon­ti­nu­ier­li­che Be­treu­ung von Stu­die­ren­den mög­lich. In­di­vi­du­el­le Be­ra­tung läuft so ins Lee­re. Wer be­son­ders be­nach­tei­ligt wird, sind Stu­die­ren­de oh­ne aka­de­mi­sches El­tern­haus und Wis­sen­schaft­le­r_in­nen, die sich für sie en­ga­gie­ren."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="54."/>
+                <tab/>
+                <ITEXT CH="Aus­lau­fen­de Stel­len zum En­de des Se­mes­ters füh­ren da­zu, dass an­ge­sam­mel­te Haus­ar­bei­ten und Ab­schluss­ar­bei­ten häu­fig auch nach Aus­lau­fen der Stel­le von den Do­zent_in­nen kor­ri­giert wer­den müs­sen, oh­ne dass da­für ei­ne Be­zah­lung er­folgt – ob­wohl dies recht­lich nicht zu­läs­sig ist. Kol­leg_in­nen oder Nach­fol­ger_in­nen kön­nen die Kor­rek­tur oft nicht über­neh­men, weil sie selbst über­las­tet oder (noch) nicht hin­rei­chend in die The­ma­tik ein­ge­ar­bei­tet sind."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Ver­hin­de­rung von Qua­li­täts­si­che­rung in der Leh­re"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="55."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG trägt zur Ver­hin­de­rung ei­ner nach­hal­ti­gen Qua­li­täts­si­che­rung uni­ver­si­tä­rer Leh­re bei. Kon­ti­nu­ier­lich gu­te Leh­re ist nicht mög­lich, da man da­für Er­fah­rung braucht und Un­ter­richts­kon­zep­te aus­pro­bie­ren so­wie ge­ge­be­nen­falls an­pas­sen muss und neue Leh­ren­de im­mer wie­der von vor­ne da­mit an­fan­gen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="56."/>
+                <tab/>
+                <ITEXT CH="Auch Hoch­schul­di­dak­tik ist ei­ne Dau­e­r­auf­ga­be, wird aber nach Wiss­ZeitVG be­fris­tet."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="57."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG führt da­zu, dass Leh­re und Kom­mis­si­ons­ar­beit kar­ri­e­re­schäd­lich sind, da sie im Ver­gleich zu Be­rei­chen wie Pu­bli­ka­ti­ons­out­put und Dritt­mit­tel­ein­wer­bung bei Stel­len­be­set­zun­gen eher als nach­ran­gig gel­ten und de fac­to ver­nach­läs­sigt wer­den müs­sen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="D."/>
+                <tab/>
+                <ITEXT CH="Kon­se­quen­zen für Wis­sen­schaft­le­r_in­nen"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <tab/>
+                <ITEXT CH="Aus­nut­zung des En­ga­ge­ments von Wis­sen­schaft­le­r_in­nen"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="58."/>
+                <tab/>
+                <ITEXT CH="Die Be­reit­schaft zur Mehr­ar­beit in der Hoff­nung, nicht aus dem Be­ruf aus­schei­den zu müs­sen, wird auch in der Be­mes­sung von Lehr­ver­pflich­tun­gen ent­fris­te­ter Hoch­de­pu­tats­stel­len aus­ge­nutzt: Das Wiss­ZeitVG treibt in­di­rekt das Lehr­de­pu­tat der (we­ni­gen) ent­fris­te­ten Stel­len nach oben. Weil die­se so rar sind, er­klä­ren sich Wis­sen­schaft­le­r_in­nen zu ei­nem die Ar­beits­zeit von 40 Stun­den meist deut­lich über­schrei­ten­den Hoch­de­pu­tat von 16 bis 24 SWS be­reit, um nicht aus ihrem Be­ruf aus­schei­den zu müs­sen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="59."/>
+                <tab/>
+                <ITEXT CH="Wer sich beim Ver­fas­sen von An­trä­gen en­ga­giert, um die ei­ge­ne Per­spek­ti­ve zu si­chern, hat kei­ner­lei Ga­ran­tie, dass das En­ga­ge­ment sich aus­zahlt: Mit­au­tor_in­nen von An­trä­gen müs­sen da­mit rech­nen, dass ih­nen die Per­so­nal­ab­tei­lun­gen kei­nen Ver­trag aus­stel­len bzw. ver­län­gern – aus Angst vor Ket­ten­ver­trä­gen und den da­mit ein­her­ge­hen­den Kla­gen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="60."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG führt da­zu, dass wis­sen­schaft­li­che Be­schäf­tig­te selbst nach jah­re­lan­ger Tä­tig­keit als „Nach­wuchs“ be­zeich­net wer­den und ih­re Ar­beit als Ei­gen­qua­li­fi­ka­ti­on, nicht als ge­sell­schafts­re­le­van­te Leis­tung in For­schung und Leh­re ver­stan­den wird."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="61."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG sorgt da­für, dass ent­fris­te­te wis­sen­schaft­li­che Mit­ar­bei­ter_in­nen als Stör­fak­tor im Ge­trie­be der Uni wahr­ge­nom­men wer­den, da sie als zu teu­er gel­ten und nicht mehr be­lie­big aus­tausch­bar sind. Die Ex­per­ti­se er­fah­re­ner wis­sen­schaft­li­cher Mit­ar­bei­ter_in­nen wird nicht ge­nug wert­ge­schätzt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="62."/>
+                <tab/>
+                <ITEXT CH="Wis­sen­schaft­le­r_in­nen pen­deln auf be­fris­te­ten Stel­len diens­tags, mitt­wochs und don­ners­tags an Hoch­schul­or­te, oh­ne dort nach­hal­ti­ge Netz­wer­ke au­ße­r­halb des El­fen­bein­turms auf­bau­en zu kön­nen. So­zi­a­les und po­li­ti­sches En­ga­ge­ment so­wie Wis­sen­schafts­kom­mu­ni­ka­ti­on vor Ort sind so nicht mög­lich."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="63."/>
+                <tab/>
+                <ITEXT CH="Wenn das Dritt­mit­tel-Pro­jekt fer­tig wer­den muss, muss so viel Ar­beits­zeit in­ves­tiert wer­den, wie es eben braucht. Sonst gilt das als Schei­tern. Da­durch wird die oh­ne­hin knap­pe Zeit für die Qua­li­fi­ka­ti­on ne­ben­her auch noch knapp, so­wohl in der Ge­gen­wart als auch in der Zu­kunft."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Ri­si­ko von Macht­miss­brauch durch Vor­ge­setz­te und Ver­wal­tun­gen"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="64."/>
+                <tab/>
+                <ITEXT CH="Die Ar­beits­bedin­gun­gen in der Wis­sen­schaft sind we­der hin­sicht­lich ei­ner ge­si­cher­ten, an Kom­pe­ten­zen und Er­fah­run­gen ori­en­tier­ten an­ge­mes­se­nen Ver­gü­tung noch hin­sicht­lich ih­rer er­wart­ba­ren Dau­er ver­läss­lich: Pas­sen die Ver­trä­ge nicht oh­ne Un­ter­bre­chung an­ein­an­der, kommt es vor, dass ei­ne Uni­ver­si­tät den wis­sen­schaft­lich Be­schäf­tig­ten al­le vor­he­ri­gen Er­fah­rungs­stu­fen ab­er­kennt und sie trotz meh­re­rer Jah­re Be­rufs­er­fah­rung wie­der mit ei­nem An­fän­ger_in­nen­ge­halt be­zahlt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="65."/>
+                <tab/>
+                <ITEXT CH="Die ein­zi­ge Ver­ste­ti­gung, die das Wiss­ZeitVG be­wirkt, be­trifft die Asym­me­trie zwi­schen all de­nen, die als „Nach­wuchs“ kei­ne Pro­fes­sur in­ne ha­ben, und Wis­­sen­­schaft­­le­r_in­nen mit Pro­fes­sur auf Le­bens­zeit."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="66."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG för­dert in­ner­halb die­ser Asym­me­tri­en to­xi­sche Ar­beits­be­zie­hun­gen und schürt In­ter­es­sen­s­kon­flik­te zu Un­guns­ten der wis­sen­schaft­lich Be­schäf­tig­ten, da Vor­ge­setz­te (die viel­fach zu­gleich Be­treu­en­de sind) bei Kon­flik­ten im­mer mit der Nicht­ver­län­ge­rung oder Ver­wei­ge­rung ei­ner Wei­ter­för­de­rung dro­hen kön­nen."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Er­schwer­ter Über­gang in die Wirt­schaft"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="67."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG er­schwert ei­nen rei­bungs­lo­sen Über­gang in die freie Wirt­schaft. Die häu­fi­gen Stel­len­wech­sel, wech­seln­den Stel­len­be­zeich­nun­gen oder so­gar Pau­sen zwi­schen zwei Ver­trä­gen wer­den im Le­bens­lauf au­ße­r­halb des El­fen­bein­turms als Stig­ma be­trach­tet."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="68."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG setzt durch die Dau­e­r­qua­li­fi­ka­ti­on den An­reiz zu fort­wäh­ren­der Wie­der­an­stel­lung, bis ein Al­ter und ei­ne Qua­li­fi­ka­ti­on er­reicht sind, die sich nach­tei­lig auf ei­ne Be­rufs­per­spek­ti­ve au­ße­r­halb der Uni­ver­si­tät aus­wir­ken. Durch die ak­tu­el­le Struk­tur wer­den die bes­ten ei­nes Jahr­gangs sys­te­ma­tisch ver­brannt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="69."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG zwingt ei­nen da­zu, al­les auf die Kar­te Wis­sen­schaft zu set­zen und sich zu hy­per­spe­zi­a­li­sie­ren. Die An­eig­nung von Kom­pe­ten­zen, die au­ße­r­halb der Wis­sen­schaft ge­fragt sind, wird im aka­de­mi­schen Be­trieb ma­xi­mal als Hob­by be­trach­tet. Sie fres­sen dann Zeit für die Auf­ga­ben, die in der Wis­sen­schaft als Qua­li­fi­ka­ti­on ge­wer­tet wer­den. Sie wer­den in­ner­be­trieb­lich dar­über hin­aus oft als man­geln­de Loy­a­li­tät und Op­fer­be­reit­schaft für die Wis­sen­schaft ge­le­sen."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Fol­gen für die pri­va­te Le­bens­pla­nung"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="70."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ist kin­der- und fa­mi­li­en­feind­lich. Es führt zum Auf­schub der Fa­mi­li­en­pla­nung oder zum Ver­zicht auf Fa­mi­li­en­grün­dung auf­grund der man­geln­den Plan­bar­keit der ei­ge­nen Zu­kunft. Für vie­le heißt die Ent­schei­dung: Kar­ri­e­re in der Wis­sen­schaft ODER Fa­mi­lie. Im schlimms­ten Fall ist man am En­de aber ar­beits- UND fa­mi­li­en­los."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="71."/>
+                <tab/>
+                <ITEXT CH="Wer den­noch Kin­der hat, wird durch die Er­war­tung an ent­grenz­te Ar­beit ab­ge­hängt. Das Wiss­ZeitVG be­straft El­tern (und ins­be­son­de­re Müt­ter) und ver­hin­dert ei­nen ge­rech­ten Zu­gang bzw. ei­ne ge­rech­te Teil­ha­be am aka­de­mi­schen Be­trieb. Wer nichts­des­to­trotz Fa­mi­lie und ei­ne Stel­le in der Wis­sen­schaft hat, lässt viel zu oft viel zu viel auf der Stre­cke und lebt in stän­di­ger Un­zu­frie­den­heit und mit gro­ßem Schuld­ge­fühl."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="72."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ist be­las­tend für jun­ge Fa­mi­li­en, so­lan­ge die Fa­mi­li­en­kom­po­nen­te, Ver­län­ge­rung der Frist um zwei Jah­re pro Kind, nur als Kann-Be­stim­mung an­ge­wandt wird."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="73."/>
+                <tab/>
+                <ITEXT CH="Fa­mi­li­en ha­ben kei­nen fes­ten Stand­ort und wer­den durch die er­zwun­ge­ne Mo­bi­li­tät im­mer wie­der ent­wur­zelt. Wäh­rend an­de­re mit Mit­te 30 ein Haus bau­en, kön­nen An­ge­stell­te im Mit­tel­bau dies we­der fi­nan­zie­ren (be­fris­tet An­ge­stell­te er­hal­ten auch kei­nen Kre­dit in der er­for­der­li­chen Hö­he) noch ist der zu­künf­ti­ge Le­bens­mit­tel­punkt ge­klärt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="74."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG führt Be­trof­fe­ne in die Al­ters­ar­mut. Durch Teil­zeit­ver­trä­ge und Be­schäf­ti­gungs­lü­cken so­wie die lan­ge Pha­se der Un­si­cher­heit wer­den we­ni­ger Bei­trä­ge in die ge­setz­li­che Ren­ten­ver­si­che­rung ein­ge­zahlt. An ei­ne zu­sätz­li­che pri­va­te Ab­si­che­rung ist nicht zu den­ken."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="75."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG be­rück­sich­tigt nicht, dass zwi­schen­durch auch mal ganz ein­fach das Le­ben pas­siert: Pfle­ge von An­ge­hö­ri­gen, Kri­sen wie z.B. der Tod von Freun­den etc. Es gibt kei­ne fes­te Re­ge­lung, wie sich An­ge­hö­ri­gen­pfle­ge auf die Be­fris­tung aus­wirkt. Da­mit hat man nicht nur mit der Sor­ge um ei­nen ge­lieb­ten Men­schen zu tun, son­dern ist ge­zwun­gen, sich par­al­lel wei­ter zu qua­li­fi­zie­ren, um in­ner­­halb der Frist zu blei­ben."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="76."/>
+                <tab/>
+                <ITEXT CH="Die Fi­nan­zie­rung von wis­sen­schaft­li­chem Nach­wuchs kon­zen­triert sich zu sehr auf die Prä­doc-Aus­bil­dung (= bil­li­ge Ar­beits­kräf­te) und ver­nach­läs­sigt die Schrit­te da­nach über­pro­por­ti­o­nal (= fal­sche Ver­spre­chen)."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Psy­chi­sche Ge­sund­heit und Fol­gen für das Ge­sund­heits­sys­tem"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="77."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG in sei­ner jet­zi­gen Form ist Aus­druck der Ideo­lo­gie, dass nur Leis­tung brin­gen kann, wer Angst hat. Die­se Auf­fas­sung wi­der­spricht dem Stand der For­schung der Mo­ti­va­ti­ons- und Ar­beits­psy­cho­lo­gie: Angst blo­ckiert Kre­a­ti­vi­tät, wäh­rend Si­cher­heit, Sinn und Selbst­be­stim­mung für hö­he­re und bes­se­re Ar­beits­leis­tun­gen sor­gen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="78."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ist ein Miss­trau­ens­be­weis ge­gen­über Wis­sen­schaft­le­r_in­nen, da der Ge­setz­ge­ber glaubt, sie mit Druck und Exis­tenz­ängs­ten zum Ar­bei­ten mo­ti­vie­ren zu müs­sen. Das Ge­gen­teil ist der Fall: Die­se Ängs­te len­ken von den ei­gent­li­chen Tä­tig­kei­ten ab."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="79."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG löst ernst­haf­te Zu­kunfts­ängs­te aus. Dau­e­r­haf­te Be­fris­tung macht (Exis­tenz-)Angst. Angst macht krank! Das Wiss­ZeitVG scha­det der Ge­sund­heit und för­dert Bur­nout und de­pres­si­ve Stö­run­gen. Gleich­zei­tig hält die Hoff­nung auf Ver­be­am­tung Be­trof­fe­ne davon ab, sich ärzt­li­che Hil­fe zu su­chen."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="E."/>
+                <tab/>
+                <ITEXT CH="Kon­se­quen­zen für Bü­ro­kra­tie, Ver­wal­tung und So­zi­al­kas­sen – For­schung auf ALG I und II"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <tab/>
+                <ITEXT CH="Aus­höh­lung des Ar­beits­rechts"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="80."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG er­schwert es wis­sen­schaft­lich Be­schäf­tig­ten, ih­re In­ter­es­sen zu ver­tre­ten, weil Gre­mi­en­ar­beit durch den stän­di­gen Per­so­nen­aus­tausch er­schwert wird. Dies be­hin­dert auch ei­ne ge­werk­schaft­li­che Or­ga­ni­sa­ti­on."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="81."/>
+                <tab/>
+                <ITEXT CH="Be­fris­te­te Ver­trä­ge bie­ten die Mög­lich­keit, die gel­ten­den Re­ge­lun­gen zum Kün­di­gungs­schutz zu um­ge­hen, weil Ver­trä­ge au­to­ma­tisch aus­lau­fen und die Ver­län­ge­rung ei­nen neu­en Ver­trags­schluss er­for­dert. Selbst be­son­ders schutz­be­dürf­ti­ge Per­so­nen, die auf un­be­fris­te­ten Stel­len aus gu­tem Grund nicht künd­bar wä­ren (Schwan­ge­re, Er­krank­te), ha­ben bei Be­fris­tung als Nor­mal­fall kei­nen An­spruch auf Wei­t­er­be­schäf­ti­gung."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="82."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG be­güns­tigt un­be­zahl­te Mehr­ar­beit, hin­ter der die ver­zwei­fel­te Hoff­nung steckt, dass ‚Leis­tung‘ in die Pro­fes­sur führt – ei­ne Hoff­nung, die sich für den Groß­teil be­fris­te­ter Wis­sen­schaft­le­r_in­nen nicht er­fül­len wird."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="83."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG kann zu­dem in­di­rekt als Dis­zi­pli­nar­maß­nah­me und als ver­län­ger­te (oder dau­e­r­haf­te) Pro­be­pha­se in­stru­men­ta­li­siert wer­den, weil stän­dig die Be­wäh­rung für die Ver­län­ge­rung ein­ge­for­dert wird."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Be­las­tung der So­zi­al­kas­sen"/>
+                <para PARENT="Thesen_Überschrift2"/>
+                <ITEXT CH="84."/>
+                <tab/>
+                <ITEXT CH="Trotz ih­rer ho­hen Qua­li­fi­ka­ti­o­nen droht Wis­sen­schaft­le­r_in­nen auf­grund des Wiss­ZeitVG re­gel­mä­ßig die Ar­beits­lo­sig­keit. Wenn sich Ver­trä­ge mit kur­z­en Lauf­zei­ten und Sti­pen­di­en ab­wech­seln, ist der An­spruch auf Ar­beits­lo­sen­geld I auf­grund der Kür­ze der Ar­beits­ver­hält­nis­se ver­kürzt oder ent­fällt so­gar ganz."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="85."/>
+                <tab/>
+                <ITEXT CH="Dank Wiss­ZeitVG wird auch die Zen­tral­un­ter­stüt­zungs­kas­se für not­lei­den­de Hoch­schul­leh­rer (ZUK) des Deut­schen Hoch­schul­ver­bands nicht über­f­lüs­sig wer­den, im Ge­gen­teil."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="86."/>
+                <tab/>
+                <ITEXT CH="Ar­beits­ver­hält­nis­se en­den re­gel­mä­ßig vor dem Er­rei­chen von Qua­li­fi­ka­ti­ons­zie­len, so­dass Qua­li­fi­ka­ti­ons­ar­bei­ten in der Ar­beits­lo­sig­keit ab­ge­schlos­sen wer­den – auch wenn die ur­sprüng­li­che Stel­le wei­ter fort­be­steht. For­schung in Deutsch­land wird re­gel­mä­ßig durch Ar­beits­lo­sen­geld und So­zi­al­leis­tun­gen ‚zwi­schen­fi­nan­ziert‘, weil Lü­cken zwi­schen Ver­trä­gen auf die­se Wei­se ge­schlos­sen wer­den müs­sen. Da­durch wer­den die So­zi­al­kas­sen un­nö­tig be­las­tet."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="87."/>
+                <tab/>
+                <ITEXT CH="Die psy­cho­lo­gi­schen Fol­ge­kos­ten des Wiss­ZeitVG be­las­ten das Ge­sund­heits­sys­tem."/>
+                <para PARENT="Thesen_Normal"/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG pro­du­ziert un­nö­ti­ge Bü­ro­kra­tie"/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="88."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG führt zu sehr viel Bü­ro­kra­tie, weil stän­dig neue Ar­beits­ver­trä­ge aus­ge­stellt und Be­wer­bungs­ver­fah­ren durch­ge­führt wer­den müs­sen. Teil der bü­ro­kra­ti­schen Bür­den ist die Un­si­cher­heit auf­sei­ten der Hoch­schul­ver­wal­tun­gen: Aus Angst vor Kla­gen wer­den Ein­stel­lun­gen oft ge­­scho­­ben oder ver­hin­dert; Ver­fah­ren wer­den häu­fig aus recht­li­chen Un­si­cher­hei­ten ein­ge­stellt."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="89."/>
+                <tab/>
+                <ITEXT CH="Wis­sen­schaft­le­r_in­nen müs­sen sich im­mer wie­der un­nö­tig ar­beits­los mel­den, weil sie ihren (oft schon zu­ge­sag­ten, aber durch ver­zö­ger­te Ver­wal­tungs­pro­zes­se noch nicht aus­ge­stell­ten) neu­en Ver­trag noch nicht ha­ben und der al­te in drei Mo­na­ten aus­läuft. Dies führt zu un­nö­ti­ger Bü­ro­kra­tie."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="F."/>
+                <tab/>
+                <ITEXT CH="Kon­se­quen­zen für Chan­cen­gleich­heit, Gleich­stel­lung und In­klu­si­on"/>
+                <para PARENT="Thesen_Überschriften"/>
+                <ITEXT CH="90."/>
+                <tab/>
+                <ITEXT CH="Die Pu­bli­ka­ti­ons­lis­te hat di­rek­te Aus­wir­kun­gen auf Kar­ri­e­re­chan­cen in der Wis­sen­schaft. Wer aber kann gut ver­öf­fent­li­chen mit be­fris­te­ten Ver­trä­gen, Ver­tre­tun­gen oder un­be­zahl­ten Pri­vat­do­zen­tu­ren? Die Un­si­cher­heit, die das Wiss­ZeitVG pro­du­ziert, muss man sich fi­nan­zi­ell eben leis­ten kön­nen. Dies führt da­zu, dass nicht-pri­vi­le­gier­te Grup­pen es wei­ter­hin nur in Aus­nah­me­fäl­len bis zur Pro­fes­sur schaf­fen wer­den."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="91."/>
+                <tab/>
+                <ITEXT CH="Auf­grund der Un­si­cher­heit, die das Wiss­ZeitVG mit sich bringt, stei­gen über­pro­por­ti­o­nal vie­le Frau­en aus dem Wis­sen­schafts­be­trieb aus. Das Wiss­ZeitVG macht es mög­lich, El­tern, davon meist die Frau­en, in El­tern­zeit zu be­nach­tei­li­gen. Aus­fall­zeit kann näm­lich u.U. nur kos­ten­neu­tral an­ge­hängt wer­den. Was, wenn ei­ne Ver­tre­tung aber un­­ab­ding­bar ist?"/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="92."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ist auch ei­ne Fra­ge von Klas­sis­mus und Chan­cen­gleich­heit. Wenn wis­sen­schaft­li­che Kar­ri­e­ren ei­ne un­si­che­re Per­spek­ti­ve blei­ben, wer­den sie auch zu­künf­tig ten­den­zi­ell nicht von Ar­bei­ter­kin­dern an­ge­strebt. Das Wiss­ZeitVG för­dert so­mit Klas­sen­un­ter­schie­de: Wer kann es sich leis­ten, un­ter- oder gar un­be­zahlt zu sein? Der deut­sche Wis­sen­schafts­be­trieb kann un­ter die­sen Um­stän­den nie­mals ei­ne Me­ri­to­kra­tie sein. Das Ge­setz führt im Üb­ri­gen da­zu, dass es für Pro­mo­vie­ren­de aus Nicht-Aka­de­mi­ker­fa­mi­li­en noch schwie­ri­ger wird, den „Ar­beits­platz Uni­­ver­si­tät“ mit sei­nen ei­gen­wil­li­gen „Re­geln“ der Fa­mi­lie zu ver­mit­teln."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="93."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG ist in sei­nen Kon­se­quen­zen ras­sis­tisch. Black, In­di­ge­ni­ous und Peo­ple of Co­lor ha­ben we­ni­ger Chan­cen im Wis­sen­schafts­sys­tem."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="94."/>
+                <tab/>
+                <ITEXT CH="Das Wiss­ZeitVG er­mög­licht bei Schwer­be­hin­de­rung ei­ne Ver­län­ge­rung der ma­xi­ma­len Be­fris­tungs­dau­er, ge­währ­leis­tet aber aus­drü­ck­lich kei­nen An­spruch dar­auf. Dies führt zu ei­ner mas­si­ven Be­nach­tei­li­gung von Wis­sen­schaft­le­r_in­nen mit Be­hin­de­rung."/>
+                <para PARENT="Thesen_Normal"/>
+                <ITEXT CH="95."/>
+                <tab/>
+                <ITEXT CH="Die negativen Effekte des WissZeitVG hinsichtlich Diversität sind mit Quotenregelungen nicht aufzufangen. Das Problem dabei ist, dass viele eigentlich höchst ge­­eig­­nete Personen, die auch diversere Perspek­­tiven und Frage­­stel­­lung­­en ein­­bring­­en könnten, das Le­­bens­­ri­­si­­ko „Wis­­sen­­schaft“ daher nicht eingehen werden."/>
+                <para PARENT="Thesen_Normal"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="289.561860892388" YPOS="123.907210128146" OwnPage="0" ItemID="2022294506" PTYPE="4" WIDTH="274.231069741282" HEIGHT="62.1824918943956" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L274.231 0 L274.231 62.1825 L0 62.1825 L0 0 Z" copath="M0 0 L274.23 0 L274.23 62.1825 L0 62.1825 L0 0 Z" gXpos="-0.942904959248745" gYpos="4.17409781981611" gWidth="273.10646298513" gHeight="53.8533" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="Thesen_Titel"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="289.654002072109" YPOS="131.71837007874" OwnPage="0" ItemID="2022385130" PTYPE="4" WIDTH="274.046714059528" HEIGHT="51.2888888888895" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L274.047 0 L274.047 51.2889 L0 51.2889 L0 0 Z" copath="M0 0 L274.047 0 L274.047 51.2889 L0 51.2889 L0 0 Z" gXpos="-0.850763779527563" gYpos="11.9852577704099" gWidth="273.10646298513" gHeight="53.8533" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="95 Thesen gegen das  WissZeitVG"/>
+                <trail PARENT="Thesen_Titel"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="651.626821522309" YPOS="262.696412948382" OwnPage="0" ItemID="1904212972" PTYPE="4" WIDTH="49.1111111111111" HEIGHT="23.7508620245998" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L49.1111 0 L49.1111 23.7509 L0 23.7509 L0 0 Z" copath="M0 0 L49.1111 0 L49.1111 23.7509 L0 23.7509 L0 0 Z" gXpos="651.626821522309" gYpos="262.696412948382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <tab/>
+                <ITEXT CH="Ge­nau­e­re  In­for­ma­ti­o­nen zur Ak­ti­on #95vs­Wiss­ZeitVG, zur kol­la­bo­ra­ti­ven Samm­lung der The­sen und zur  Auf­be­rei­tung durch Dr. Am­rei Bahr, PD Dr. Kris­tin Eich­horn und Dr. Se­bas­ti­an Ku­bon fin­den sich auf:"/>
+                <trail PARENT="Thesen_Normal"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="699.038586228192" YPOS="239.027121609799" OwnPage="0" ItemID="2022602218" PTYPE="4" WIDTH="50.4158818382994" HEIGHT="54.8888888888889" FRTYPE="0" CLIPEDIT="0" PWIDTH="0" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L50.4159 0 L50.4159 54.8889 L0 54.8889 L0 0 Z" copath="M0 0 L50.4159 0 L50.4159 54.8889 L0 54.8889 L0 0 Z" gXpos="699.038586228192" gYpos="239.027121609799" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="Thesen_Normal"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
